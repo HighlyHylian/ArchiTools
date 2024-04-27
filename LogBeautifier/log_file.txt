@@ -1,0 +1,847 @@
+[root at 2024-04-26 02:01:32,905]: Archipelago (0.4.6) logging initialized on Linux-5.15.0-105-generic-x86_64-with-glibc2.35 running Python 3.10.12
+[websockets.server at 2024-04-26 02:01:33,064]: server listening on 0.0.0.0:61533
+[websockets.server at 2024-04-26 02:01:33,067]: server listening on [::]:61533
+[root at 2024-04-26 02:01:33,068]: Hosting game at archipelago.gg:61533
+[websockets.server at 2024-04-26 02:02:15,155]: connection open
+[websockets.server at 2024-04-26 02:03:42,914]: connection closed
+[websockets.server at 2024-04-26 02:05:47,498]: connection open
+[root at 2024-04-26 02:06:53,528]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-26 02:06:53,528]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:07:22,995]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 02:07:22,996]: connection closed
+[websockets.server at 2024-04-26 02:07:43,419]: connection open
+[websockets.server at 2024-04-26 02:08:47,427]: connection closed
+[websockets.server at 2024-04-26 02:08:57,225]: connection open
+[root at 2024-04-26 02:10:58,411]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-26 02:10:58,411]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:10:58,766]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 2 - Coin Block #1)
+[root at 2024-04-26 02:10:58,888]: (Team #1) Hylian sent Emblem to Dagel (Yoshi's Island 2 - Coin Block #3)
+[root at 2024-04-26 02:10:58,888]: (Team #1) Hylian sent 1 coin to Hylian (Yoshi's Island 2 - Yoshi Block #1)
+[root at 2024-04-26 02:11:22,417]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 02:11:22,417]: connection closed
+[websockets.server at 2024-04-26 02:11:42,829]: connection open
+[websockets.server at 2024-04-26 02:14:23,446]: connection closed
+[websockets.server at 2024-04-26 02:14:41,595]: connection open
+[root at 2024-04-26 02:14:49,807]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-26 02:14:49,807]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 02:17:08,320]: connection open
+[root at 2024-04-26 02:17:08,603]: Notice (all): Passion (Team #1) playing Pokemon Emerald has joined. Client(0.4.6), ['AP'].
+[root at 2024-04-26 02:17:08,604]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 02:19:09,952]: connection open
+[root at 2024-04-26 02:19:10,094]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-26 02:19:10,094]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:19:10,373]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[websockets.server at 2024-04-26 02:22:38,100]: connection open
+[root at 2024-04-26 02:22:38,407]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 02:22:38,408]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 02:22:53,441]: connection open
+[root at 2024-04-26 02:22:53,755]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 02:22:53,755]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 02:24:47,960]: connection open
+[root at 2024-04-26 02:24:48,254]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 02:24:48,254]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:28:06,225]: (Team #1) Dagel sent 5 coins to Hylian (Sky Rail - 1)
+[websockets.server at 2024-04-26 02:28:34,001]: connection open
+[root at 2024-04-26 02:29:56,097]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 02:29:56,097]: connection closed
+[websockets.server at 2024-04-26 02:30:05,551]: connection open
+[root at 2024-04-26 02:30:13,619]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'DeathLink'].
+[root at 2024-04-26 02:30:13,619]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:30:27,546]: (Team #1) Dagel sent Leppa Berry to Passion (Iron Gate - Chao Key 1)
+[root at 2024-04-26 02:30:32,740]: (Team #1) Hylian sent 50 coins to Hylian (Yoshi's Island 2 - Coin Block #2)
+[root at 2024-04-26 02:31:06,548]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Yoshi's Island 2 - Coin Block #4)
+[root at 2024-04-26 02:31:08,638]: (Team #1) Hylian sent Carry to Hylian (Yoshi's Island 2 - Yoshi Block #2)
+[root at 2024-04-26 02:31:15,918]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Yoshi's Island 2 - Coin Block #5)
+[root at 2024-04-26 02:31:22,439]: (Team #1) Hylian sent Big Pearl to Passion (Yoshi's Island 2 - Vine Block #1)
+[websockets.server at 2024-04-26 02:31:33,111]: connection closed
+[root at 2024-04-26 02:31:55,699]: (Team #1) Hylian sent 50 coins to Hylian (Yoshi's Island 2 - Normal Exit)
+[websockets.server at 2024-04-26 02:32:42,026]: connection open
+[root at 2024-04-26 02:32:46,597]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-26 02:32:46,597]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:33:10,290]: (Team #1) Hylian sent Calcium to Passion (Donut Plains 3 - Coin Block #1)
+[root at 2024-04-26 02:33:12,449]: (Team #1) Hylian sent Nugget to Passion (Donut Plains 3 - Coin Block #2)
+[root at 2024-04-26 02:33:34,245]: (Team #1) Passion sent 5 coins to Hylian (Oldale Town - Gift from Shop Tutorial)
+[root at 2024-04-26 02:35:16,679]: (Team #1) Hylian sent Ether to Passion (Donut Plains 3 - Powerup Block #1)
+[root at 2024-04-26 02:37:11,770]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 3 - Bonus Block #1)
+[root at 2024-04-26 02:37:27,430]: (Team #1) Hylian sent 10 coins to Hylian (Donut Plains 3 - Normal Exit)
+[root at 2024-04-26 02:38:00,495]: (Team #1) Dagel sent Yoshi to Hylian (Iron Gate - 1)
+[root at 2024-04-26 02:38:10,991]: (Team #1) Hylian sent 50 coins to Hylian (Yellow Switch Palace)
+[root at 2024-04-26 02:38:54,251]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 4 - Powerup Block #1)
+[root at 2024-04-26 02:39:32,392]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 4 - Multi Coin Block #1)
+[root at 2024-04-26 02:39:40,567]: (Team #1) Dagel sent 10 coins to Hylian (Radical Highway - Chao Key 2)
+[root at 2024-04-26 02:39:52,501]: (Team #1) Hylian sent 50 coins to Hylian (Yoshi's Island 4 - Star Block #1)
+[root at 2024-04-26 02:43:02,324]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Radical Highway - Chao Key 3)
+[root at 2024-04-26 02:43:20,114]: (Team #1) Hylian sent 5 coins to Hylian (Yoshi's Island 4 - Normal Exit)
+[root at 2024-04-26 02:44:04,504]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 4 - Coin Block #2)
+[root at 2024-04-26 02:44:14,949]: (Team #1) Dagel sent HM03 Surf to Passion (Radical Highway - 1)
+[root at 2024-04-26 02:44:44,724]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 4 - Yoshi Block #1)
+[root at 2024-04-26 02:45:22,006]: (Team #1) Dagel sent Heart Scale to Passion (Radical Highway - Chao Key 1)
+[root at 2024-04-26 02:46:15,237]: (Team #1) Dagel sent Aspear Berry to Passion (Radical Highway - 2)
+[root at 2024-04-26 02:46:23,365]: (Team #1) Hylian sent TM30 to Passion (Donut Plains 4 - Normal Exit)
+[root at 2024-04-26 02:48:38,303]: (Team #1) Dagel sent Zinc to Passion (Gate 1 Boss)
+[root at 2024-04-26 02:49:07,456]: (Team #1) Hylian sent 50 coins to Hylian (Forest Fortress - Powerup Block #1)
+[root at 2024-04-26 02:51:39,607]: (Team #1) Hylian sent Protein to Passion (Forest Fortress - Normal Exit)
+[root at 2024-04-26 02:51:39,726]: (Team #1) Hylian sent Boss Token to Hylian (Forest Fortress - Boss)
+[root at 2024-04-26 02:52:01,927]: (Team #1) Hylian sent PP Up to Passion (Valley of Bowser 2 - Powerup Block #1)
+[root at 2024-04-26 02:52:18,104]: (Team #1) Dagel sent 10 coins to Hylian (Route 101 - 1)
+[root at 2024-04-26 02:52:38,056]: (Team #1) Hylian sent 5 coins to Hylian (Valley of Bowser 2 - Powerup Block #2)
+[root at 2024-04-26 02:52:42,687]: (Team #1) Hylian sent Powder Jar to Passion (Valley of Bowser 2 - Wings Block #1)
+[root at 2024-04-26 02:53:10,837]: (Team #1) Hylian sent 1 coin to Hylian (Valley of Bowser 2 - Normal Exit)
+[root at 2024-04-26 02:56:41,118]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 2 - Coin Block #1)
+[root at 2024-04-26 02:56:41,698]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 2 - Coin Block #2)
+[root at 2024-04-26 02:56:43,178]: (Team #1) Hylian sent 5 coins to Hylian (Donut Plains 2 - Coin Block #3)
+[root at 2024-04-26 02:57:04,888]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 2 - Powerup Block #1)
+[root at 2024-04-26 02:57:13,387]: (Team #1) Hylian sent Yellow Shard to Passion (Donut Plains 2 - Multi Coin Block #1)
+[root at 2024-04-26 02:58:35,009]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 2 - Normal Exit)
+[root at 2024-04-26 02:58:47,147]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 02:58:47,147]: connection closed
+[websockets.server at 2024-04-26 02:58:52,628]: connection open
+[root at 2024-04-26 02:58:52,918]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 02:58:52,919]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 02:59:15,461]: (Team #1) Dagel sent Cheri Berry to Passion (Wild Canyon - Chao Key 2)
+[root at 2024-04-26 02:59:23,629]: (Team #1) Hylian sent Emblem to Dagel (Forest of Illusion 4 - Multi Coin Block #1)
+[root at 2024-04-26 02:59:28,392]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Forest of Illusion 4 - Coin Block #1)
+[root at 2024-04-26 02:59:28,973]: (Team #1) Hylian sent 10 coins to Hylian (Forest of Illusion 4 - Coin Block #2)
+[root at 2024-04-26 02:59:29,501]: (Team #1) Hylian sent 5 coins to Hylian (Forest of Illusion 4 - Coin Block #3)
+[root at 2024-04-26 02:59:30,050]: (Team #1) Hylian sent Sitrus Berry to Passion (Forest of Illusion 4 - Coin Block #4)
+[root at 2024-04-26 02:59:30,589]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Forest of Illusion 4 - Powerup Block #1)
+[root at 2024-04-26 02:59:31,109]: (Team #1) Hylian sent PP Up to Passion (Forest of Illusion 4 - Coin Block #5)
+[root at 2024-04-26 03:00:20,955]: (Team #1) Passion sent Mental Herb to Passion (Littleroot Town - Pokeballs from Rival)
+[root at 2024-04-26 03:00:36,153]: (Team #1) Dagel sent Repeat Ball to Passion (Wild Canyon - Chao Key 1)
+[root at 2024-04-26 03:01:30,621]: (Team #1) Dagel sent Emblem to Dagel (Wild Canyon - Chao Key 3)
+[root at 2024-04-26 03:02:33,175]: (Team #1) Dagel sent 10 coins to Hylian (Wild Canyon - 1)
+[root at 2024-04-26 03:06:16,988]: (Team #1) Dagel sent 1 coin to Hylian (Green Forest - Chao Key 3)
+[root at 2024-04-26 03:06:36,062]: (Team #1) Hylian sent 5 coins to Hylian (Yoshi's Island 2 - Flying Question Block #2)
+[root at 2024-04-26 03:06:44,503]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 2 - Flying Question Block #1)
+[root at 2024-04-26 03:06:47,253]: (Team #1) Hylian sent Emblem to Dagel (Yoshi's Island 2 - Flying Question Block #3)
+[root at 2024-04-26 03:06:50,723]: (Team #1) Hylian sent Purple Chaos Drive to Dagel (Yoshi's Island 2 - Flying Question Block #5)
+[root at 2024-04-26 03:06:53,513]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 2 - Flying Question Block #4)
+[root at 2024-04-26 03:06:55,663]: (Team #1) Hylian sent Super Potion to Passion (Yoshi's Island 2 - Flying Question Block #6)
+[root at 2024-04-26 03:07:44,355]: (Team #1) Dagel sent 50 coins to Hylian (Green Forest - 1)
+[root at 2024-04-26 03:08:18,299]: (Team #1) Passion sent Emblem to Dagel (Route 102 - Berry Tree 2)
+[root at 2024-04-26 03:08:22,823]: (Team #1) Passion sent 1 coin to Hylian (Route 102 - Berry Tree 1)
+[root at 2024-04-26 03:08:59,775]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:08:59,776]: connection closed
+[root at 2024-04-26 03:09:11,225]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:09:11,225]: connection closed
+[websockets.server at 2024-04-26 03:09:23,991]: connection open
+[root at 2024-04-26 03:09:24,153]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'DeathLink'].
+[root at 2024-04-26 03:09:24,153]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 03:09:33,325]: connection open
+[root at 2024-04-26 03:09:33,633]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 03:09:33,633]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 03:10:10,317]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:10:10,318]: connection closed
+[websockets.server at 2024-04-26 03:10:16,032]: connection open
+[root at 2024-04-26 03:10:16,341]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 03:10:16,341]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 03:12:17,209]: (Team #1) Dagel sent Lax Incense to Passion (Iron Gate - 2)
+[root at 2024-04-26 03:13:02,057]: (Team #1) Hylian sent 10 coins to Hylian (Forest of Illusion 4 - Coin Block #6)
+[root at 2024-04-26 03:13:02,629]: (Team #1) Hylian sent Emblem to Dagel (Forest of Illusion 4 - Coin Block #7)
+[root at 2024-04-26 03:13:49,197]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Forest of Illusion 4 - Powerup Block #2)
+[root at 2024-04-26 03:13:54,516]: (Team #1) Hylian sent Emblem to Dagel (Forest of Illusion 4 - Coin Block #9)
+[root at 2024-04-26 03:13:55,330]: (Team #1) Hylian sent 50 coins to Hylian (Forest of Illusion 4 - Coin Block #8)
+[root at 2024-04-26 03:13:56,795]: (Team #1) Hylian sent 50 coins to Hylian (Forest of Illusion 4 - Coin Block #10)
+[root at 2024-04-26 03:14:19,487]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Forest of Illusion 4 - Normal Exit)
+[root at 2024-04-26 03:14:42,957]: (Team #1) Dagel sent 1 coin to Hylian (Iron Gate - Chao Key 2)
+[root at 2024-04-26 03:17:11,918]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/countdown seconds=10 
+    Start a countdown in seconds
+/options 
+    List all current options. Warning: lists password.
+/save 
+    Save current state to multidata
+/players 
+    Get information about connected players
+/status [tag] 
+    Get status information about teams.
+        Optionally mention a Tag name and get information on who has that Tag.
+        For example: DeathLink or EnergyLink.
+/exit 
+    Shutdown the server
+/alias player_name_then_alias_name 
+    Set a player's alias, by listing their base name and then their intended alias.
+/collect player_name 
+    Send out the remaining items to player.
+/release player_name 
+    Send out the remaining items from a player to their intended recipients.
+/allow_release player_name 
+    Allow the specified player to use the !release command.
+/forbid_release player_name 
+    Disallow the specified player from using the !release command.
+/send_multiple amount player_name item_name 
+    Sends multiples of an item to the specified player
+/send player_name item_name 
+    Sends an item to the specified player
+/send_location player_name location_name 
+    Send out item from a player's location as though they checked it
+/hint player_name item_name 
+    Send out a hint for a player's item to their team
+/hint_location player_name location_name 
+    Send out a hint for a player's location to their team
+/option option_name option_value 
+    Set an option for the server.
+/datastore 
+    Debug Tool: list writable datastorage keys and approximate the size of their values with pickle.
+
+[root at 2024-04-26 03:17:22,336]: (Team #1) Dagel sent Revive to Passion (Iron Gate - Chao Key 3)
+[root at 2024-04-26 03:17:51,952]: Current options:
+[root at 2024-04-26 03:17:51,952]: Option hint_cost is set to 10
+[root at 2024-04-26 03:17:51,952]: Option location_check_points is set to 1
+[root at 2024-04-26 03:17:51,952]: Option server_password is set to 
+[root at 2024-04-26 03:17:51,952]: Option password is set to 
+[root at 2024-04-26 03:17:51,952]: Option release_mode is set to auto
+[root at 2024-04-26 03:17:51,952]: Option remaining_mode is set to goal
+[root at 2024-04-26 03:17:51,952]: Option collect_mode is set to auto
+[root at 2024-04-26 03:17:51,952]: Option item_cheat is set to True
+[root at 2024-04-26 03:17:51,952]: Option compatibility is set to 2
+[root at 2024-04-26 03:18:17,278]: (Team #1) Dagel sent 1 coin to Hylian (Sky Rail - Chao Key 1)
+[root at 2024-04-26 03:18:26,980]: Could not find command layers. Known commands: help, license, countdown, options, save, players, status, exit, alias, collect, release, allow_release, forbid_release, send_multiple, send, send_location, hint, hint_location, option, datastore
+[root at 2024-04-26 03:18:31,988]: 3 players of 3 connected :: Team #1: Dagel Hylian Passion
+[root at 2024-04-26 03:18:47,004]: Player Status on team 0:
+Dagel has 3 connections. (20/188)
+Hylian has 2 connections. (55/690)
+Passion has 2 connections. (4/462)
+[root at 2024-04-26 03:19:02,016]: Player Status on team 0:
+Dagel has 3 connections 0 of which are tagged deathlink. (20/188)
+Hylian has 2 connections 0 of which are tagged deathlink. (55/690)
+Passion has 2 connections 0 of which are tagged deathlink. (4/462)
+[root at 2024-04-26 03:19:07,024]: Player Status on team 0:
+Dagel has 3 connections 0 of which are tagged deathlink. (20/188)
+Hylian has 2 connections 0 of which are tagged deathlink. (55/690)
+Passion has 2 connections 0 of which are tagged deathlink. (4/462)
+[root at 2024-04-26 03:19:35,956]: (Team #1) Dagel sent 10 coins to Hylian (Sky Rail - 2)
+[root at 2024-04-26 03:21:37,463]: (Team #1) Dagel sent 5 coins to Hylian (Sky Rail - Chao Key 3)
+[root at 2024-04-26 03:25:46,031]: (Team #1) Dagel sent 5 coins to Hylian (Sky Rail - Chao Key 2)
+[root at 2024-04-26 03:26:05,295]: (Team #1) Passion sent Leftovers to Passion (Granite Cave 1F - HM05 from Hiker)
+[root at 2024-04-26 03:27:01,528]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Granite Cave 1F - Item Before Ladder)
+[root at 2024-04-26 03:27:56,066]: (Team #1) Dagel sent 10 coins to Hylian (Route 101 - 2)
+[root at 2024-04-26 03:28:32,171]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Granite Cave B1F - Item in Alcove)
+[root at 2024-04-26 03:30:50,049]: (Team #1) Dagel sent 1 coin to Hylian (Sky Rail - Upgrade)
+[root at 2024-04-26 03:32:26,495]: (Team #1) Passion sent 5 coins to Hylian (Granite Cave B2F - Hidden Item on Platform)
+[root at 2024-04-26 03:35:12,647]: (Team #1) Dagel sent 50 coins to Hylian (Green Forest - 2)
+[root at 2024-04-26 03:36:24,341]: (Team #1) Dagel sent Emblem to Dagel (Green Forest - Chao Key 1)
+[root at 2024-04-26 03:38:15,294]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Green Forest - Chao Key 2)
+[root at 2024-04-26 03:45:54,664]: (Team #1) Passion sent 5 coins to Hylian (Route 104 - Berry Tree South 1)
+[root at 2024-04-26 03:46:00,166]: (Team #1) Passion sent 10 coins to Hylian (Route 104 - Berry Tree South 2)
+[root at 2024-04-26 03:46:02,812]: (Team #1) Passion sent 50 coins to Hylian (Route 104 - Berry Tree South 3)
+[root at 2024-04-26 03:53:46,190]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:53:46,190]: connection closed
+[websockets.server at 2024-04-26 03:53:59,860]: connection open
+[root at 2024-04-26 03:54:05,215]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-26 03:54:05,216]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 03:55:17,104]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:55:17,104]: connection closed
+[root at 2024-04-26 03:55:27,292]: (Team #1) Dagel sent 50 coins to Hylian (Green Forest - Upgrade)
+[websockets.server at 2024-04-26 03:55:28,325]: connection open
+[root at 2024-04-26 03:55:32,606]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'DeathLink'].
+[root at 2024-04-26 03:55:32,607]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 03:56:07,959]: (Team #1) Dagel sent 5 coins to Hylian (Black Market - 1)
+[root at 2024-04-26 03:56:09,176]: (Team #1) Passion sent Emblem to Dagel (Petalburg Woods - Item Southwest)
+[root at 2024-04-26 03:56:24,337]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 03:56:24,337]: connection closed
+[websockets.server at 2024-04-26 03:56:35,015]: connection open
+[root at 2024-04-26 03:56:35,310]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 03:56:35,311]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 03:59:45,890]: (Team #1) Dagel sent Emblem to Dagel (Wild Canyon - 2)
+[root at 2024-04-26 04:00:03,751]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 04:00:03,752]: connection closed
+[root at 2024-04-26 04:00:25,562]: (Team #1) Passion sent 50 coins to Hylian (Petalburg Woods - Gift from Devon Employee)
+[root at 2024-04-26 04:00:26,501]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Valley of Bowser 2 - Secret Exit)
+[root at 2024-04-26 04:01:05,662]: (Team #1) Hylian sent 10 coins to Hylian (Star Road 4 - Powerup Block #1)
+[root at 2024-04-26 04:02:10,282]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Star Road 4 - Normal Exit)
+[root at 2024-04-26 04:12:16,043]: (Team #1) Hylian sent 1 coin to Hylian (Star Road 4 - Key Block #1)
+[root at 2024-04-26 04:12:24,543]: (Team #1) Hylian sent Emblem to Dagel (Star Road 4 - Secret Exit)
+[root at 2024-04-26 04:12:48,877]: (Team #1) Hylian sent Emblem to Dagel (Chocolate Island 2 - Yoshi Block #1)
+[root at 2024-04-26 04:13:10,727]: (Team #1) Hylian sent 10 coins to Hylian (Chocolate Island 2 - Invisible Coin Block #1)
+[root at 2024-04-26 04:13:11,327]: (Team #1) Hylian sent 10 coins to Hylian (Chocolate Island 2 - Multi Coin Block #1)
+[root at 2024-04-26 04:14:29,864]: (Team #1) Hylian sent Pinap Berry to Passion (Chocolate Island 2 - Secret Exit)
+[root at 2024-04-26 04:14:31,053]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Dewford Gym - Knuckle Badge)
+[root at 2024-04-26 04:14:41,322]: (Team #1) Passion sent 10 coins to Hylian (Dewford Gym - TM08 from Brawly)
+[root at 2024-04-26 04:15:45,282]: (Team #1) Passion sent 1 coin to Hylian (Dewford Town - Silk Scarf from Man in House)
+[root at 2024-04-26 04:17:03,915]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Chocolate Island 2 - Coin Block #1)
+[root at 2024-04-26 04:17:18,755]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Chocolate Island 2 - Coin Block #2)
+[root at 2024-04-26 04:17:21,545]: (Team #1) Hylian sent Green Chaos Drive to Dagel (Chocolate Island 2 - Powerup Block #1)
+[root at 2024-04-26 04:17:22,279]: (Team #1) Hylian sent Rouge - Pick Nails to Dagel (Chocolate Island 2 - Multi Coin Block #2)
+[root at 2024-04-26 04:18:26,525]: (Team #1) Hylian sent Deep Sea Tooth to Passion (Chocolate Island 2 - Normal Exit)
+[root at 2024-04-26 04:18:53,976]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-26 04:18:53,977]: connection closed
+[root at 2024-04-26 04:18:57,236]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-26 04:18:57,237]: connection closed
+[root at 2024-04-26 04:26:18,719]: (Team #1) Hylian sent Tropic Mail to Passion (Chocolate Island 2 - Blue P-Switch Block #1)
+[root at 2024-04-26 04:27:21,833]: (Team #1) Hylian sent 50 coins to Hylian (Chocolate Island 3 - Powerup Block #1)
+[root at 2024-04-26 04:28:16,710]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Chocolate Island 3 - Powerup Block #3)
+[root at 2024-04-26 04:28:26,699]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Chocolate Island 3 - Bonus Block #1)
+[root at 2024-04-26 04:28:28,460]: (Team #1) Hylian sent 10 coins to Hylian (Chocolate Island 3 - Vine Block #1)
+[root at 2024-04-26 04:28:47,340]: (Team #1) Hylian sent 5 coins to Hylian (Chocolate Island 3 - 1-Up Mushroom Block #1)
+[root at 2024-04-26 04:28:47,910]: (Team #1) Hylian sent Nugget to Passion (Chocolate Island 3 - 1-Up Mushroom Block #2)
+[root at 2024-04-26 04:28:48,999]: (Team #1) Hylian sent Carbos to Passion (Chocolate Island 3 - 1-Up Mushroom Block #3)
+[root at 2024-04-26 04:29:06,190]: (Team #1) Hylian sent Hyper Potion to Passion (Chocolate Island 3 - Secret Exit)
+[root at 2024-04-26 04:29:46,554]: (Team #1) Hylian sent Swim to Hylian (Chocolate Island 3 - Powerup Block #2)
+[root at 2024-04-26 04:30:30,980]: (Team #1) Hylian sent Max Elixir to Passion (Chocolate Island 3 - Normal Exit)
+[root at 2024-04-26 04:34:36,712]: (Team #1) Hylian sent Great Ball to Passion (Forest of Illusion 4 - Secret Exit)
+[root at 2024-04-26 04:35:07,252]: (Team #1) Hylian sent Black Glasses to Passion (Forest Secret Area - Powerup Block #1)
+[root at 2024-04-26 04:35:19,802]: (Team #1) Hylian sent Tiny Mushroom to Passion (Forest Secret Area - Powerup Block #2)
+[root at 2024-04-26 04:35:44,293]: (Team #1) Hylian sent Persim Berry to Passion (Forest Secret Area - 1-Up Mushroom Block #1)
+[root at 2024-04-26 04:36:09,783]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Forest Secret - Normal Exit)
+[root at 2024-04-26 04:36:42,794]: (Team #1) Hylian sent 5 coins to Hylian (Yoshi's Island 3 - Coin Block #1)
+[root at 2024-04-26 04:36:43,394]: (Team #1) Hylian sent Water Stone to Passion (Yoshi's Island 3 - Yoshi Block #1)
+[root at 2024-04-26 04:37:28,644]: (Team #1) Hylian sent 50 coins to Hylian (Yoshi's Island 3 - Coin Block #2)
+[root at 2024-04-26 04:37:47,383]: (Team #1) Hylian sent Full Heal to Passion (Yoshi's Island 3 - Powerup Block #1)
+[root at 2024-04-26 04:38:25,174]: (Team #1) Hylian sent Stardust to Passion (Yoshi's Island 3 - Bonus Block #1)
+[root at 2024-04-26 04:38:48,873]: (Team #1) Hylian sent 10 coins to Hylian (Yoshi's Island 3 - Normal Exit)
+[root at 2024-04-26 04:48:26,788]: (Team #1) Hylian sent Shadow - Ancient Light to Dagel (#7 Larry's Castle - Normal Exit)
+[root at 2024-04-26 04:48:26,908]: (Team #1) Hylian sent Boss Token to Hylian (#7 Larry's Castle - Boss)
+[root at 2024-04-26 04:48:48,587]: (Team #1) Hylian sent Sitrus Berry to Passion (Vanilla Dome 2 - Coin Block #2)
+[root at 2024-04-26 04:48:48,707]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 2 - Coin Block #3)
+[root at 2024-04-26 04:48:49,239]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Vanilla Dome 2 - Coin Block #1)
+[root at 2024-04-26 04:48:49,360]: (Team #1) Hylian sent Great Ball to Passion (Vanilla Dome 2 - Powerup Block #1)
+[root at 2024-04-26 04:48:57,258]: (Team #1) Hylian sent Eggman - Large Cannon to Dagel (Vanilla Dome 2 - Vine Block #1)
+[root at 2024-04-26 04:50:42,140]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 4 - Coin Block #1)
+[root at 2024-04-26 04:50:42,798]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 4 - Powerup Block #1)
+[root at 2024-04-26 04:55:44,762]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 2 - Flying Question Block #1)
+[root at 2024-04-26 04:59:07,992]: (Team #1) Hylian sent 50 coins to Hylian (Donut Plains 2 - Vine Block #1)
+[root at 2024-04-26 04:59:22,716]: (Team #1) Hylian sent Energy Powder to Passion (Donut Plains 2 - Secret Exit)
+[root at 2024-04-26 04:59:59,692]: (Team #1) Hylian sent Full Restore to Passion (Green Switch Palace)
+[root at 2024-04-26 05:14:36,508]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 2 - Coin Block #4)
+[root at 2024-04-26 05:14:36,628]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Vanilla Dome 2 - Coin Block #5)
+[root at 2024-04-26 05:14:37,124]: (Team #1) Hylian sent 5 coins to Hylian (Vanilla Dome 2 - Powerup Block #2)
+[root at 2024-04-26 05:14:43,328]: (Team #1) Hylian sent Thunder Stone to Passion (Vanilla Dome 2 - Powerup Block #3)
+[root at 2024-04-26 05:14:51,528]: (Team #1) Hylian sent Nugget to Passion (Vanilla Dome 2 - Powerup Block #4)
+[root at 2024-04-26 05:15:21,619]: (Team #1) Hylian sent TM47 to Passion (Vanilla Dome 2 - Invisible 1-Up Mushroom Block #1)
+[root at 2024-04-26 05:16:05,489]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 2 - Powerup Block #5)
+[root at 2024-04-26 05:21:07,271]: (Team #1) Hylian sent Emblem to Dagel (Vanilla Dome 2 - Multi Coin Block #1)
+[root at 2024-04-26 05:27:50,869]: (Team #1) Hylian sent Bluk Berry to Passion (Vanilla Dome 2 - Multi Coin Block #2)
+[root at 2024-04-26 05:28:09,353]: (Team #1) Hylian sent 5 coins to Hylian (Vanilla Dome 2 - Normal Exit)
+[root at 2024-04-26 05:28:56,944]: (Team #1) Hylian sent HM06 Rock Smash to Passion (Star Road 2 - Star Block #1)
+[root at 2024-04-26 05:30:42,874]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Star Road 2 - Secret Exit)
+[root at 2024-04-26 05:31:35,742]: (Team #1) Hylian sent Wepear Berry to Passion (Red Switch Palace)
+[root at 2024-04-26 05:32:50,906]: (Team #1) Hylian sent 10 coins to Hylian (Star Road 2 - Normal Exit)
+[root at 2024-04-26 05:33:11,565]: (Team #1) Hylian sent 50 coins to Hylian (Soda Lake - Powerup Block #1)
+[root at 2024-04-26 05:34:34,017]: (Team #1) Hylian sent 10 coins to Hylian (Soda Lake - Normal Exit)
+[root at 2024-04-26 05:36:12,437]: (Team #1) Hylian sent Emblem to Dagel (Way Cool - Powerup Block #1)
+[root at 2024-04-26 05:36:41,787]: (Team #1) Hylian sent Yellow Shard to Passion (Way Cool - Wings Block #1)
+[root at 2024-04-26 05:39:16,148]: (Team #1) Hylian sent Emblem to Dagel (Way Cool - Yoshi Block #1)
+[root at 2024-04-26 05:39:51,858]: (Team #1) Hylian sent Revive to Passion (Way Cool - Normal Exit)
+[root at 2024-04-26 05:44:11,030]: (Team #1) Hylian sent 5 coins to Hylian (Chocolate Secret - Powerup Block #1)
+[root at 2024-04-26 05:47:20,871]: (Team #1) Hylian sent Bead Mail to Passion (Chocolate Secret - Powerup Block #2)
+[root at 2024-04-26 05:49:18,712]: (Team #1) Hylian sent Emblem to Dagel (Chocolate Secret - Normal Exit)
+[root at 2024-04-26 05:54:17,904]: (Team #1) Hylian sent 50 coins to Hylian (#3 Lemmy's Castle - Normal Exit)
+[root at 2024-04-26 05:54:18,024]: (Team #1) Hylian sent Boss Token to Hylian (#3 Lemmy's Castle - Boss)
+[root at 2024-04-26 05:54:56,464]: (Team #1) Hylian sent HM04 Strength to Passion (Valley Ghost House - Powerup Block #1)
+[root at 2024-04-26 05:55:59,585]: Notice (all): Hylian: !HINT
+[root at 2024-04-26 05:55:59,586]: Notice (Player Hylian in team 1): A hint costs 69 points. You have 130 points.
+[root at 2024-04-26 05:56:07,654]: Notice (all): Hylian: !hint climb
+[root at 2024-04-26 05:56:07,658]: Notice (Team #1): [Hint]: Hylian's Climb is at Cookie Mountain - Coin Block #11 in Hylian's World at Special Zone.
+[root at 2024-04-26 05:56:23,862]: Notice (all): Hylian: !hint spin jump
+[root at 2024-04-26 05:56:23,862]: Notice (Player Hylian in team 1): You can't afford the hint. You have 61 points and need at least 69.
+[root at 2024-04-26 05:58:15,836]: (Team #1) Hylian sent Aspear Berry to Passion (Vanilla Dome 4 - Powerup Block #1)
+[root at 2024-04-26 06:00:01,916]: (Team #1) Hylian sent Glitter Mail to Passion (Vanilla Dome 4 - Powerup Block #2)
+[root at 2024-04-26 06:00:24,456]: (Team #1) Hylian sent Super Repel to Passion (Vanilla Dome 4 - Coin Block #1)
+[root at 2024-04-26 06:00:25,087]: (Team #1) Hylian sent 50 coins to Hylian (Vanilla Dome 4 - Coin Block #2)
+[root at 2024-04-26 06:00:25,628]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 4 - 1-Up Mushroom Block #1)
+[root at 2024-04-26 06:00:26,208]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 4 - Coin Block #3)
+[root at 2024-04-26 06:00:26,757]: (Team #1) Hylian sent Emblem to Dagel (Vanilla Dome 4 - Coin Block #4)
+[root at 2024-04-26 06:00:26,879]: (Team #1) Hylian sent Wave Mail to Passion (Vanilla Dome 4 - Coin Block #5)
+[root at 2024-04-26 06:00:27,826]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Vanilla Dome 4 - Coin Block #6)
+[root at 2024-04-26 06:00:34,017]: (Team #1) Hylian sent Full Heal to Passion (Vanilla Dome 4 - Coin Block #7)
+[root at 2024-04-26 06:01:14,276]: (Team #1) Hylian sent 5 coins to Hylian (Vanilla Dome 4 - Coin Block #8)
+[root at 2024-04-26 06:01:43,578]: (Team #1) Hylian sent 10 coins to Hylian (Vanilla Dome 4 - Normal Exit)
+[root at 2024-04-26 06:16:34,873]: (Team #1) Hylian sent Sonic - Bounce Bracelet to Dagel (#3 Lemmy's Castle - 1-Up Mushroom Block #1)
+[root at 2024-04-26 06:16:40,433]: (Team #1) Hylian sent 50 coins to Hylian (#3 Lemmy's Castle - 1-Up Mushroom Block #2)
+[root at 2024-04-26 06:17:39,135]: (Team #1) Hylian sent Full Restore to Passion (#3 Lemmy's Castle - Powerup Block #1)
+[root at 2024-04-26 06:28:44,395]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 06:28:44,396]: connection closed
+[websockets.server at 2024-04-26 06:29:07,858]: connection open
+[websockets.server at 2024-04-26 06:49:29,626]: connection closed
+[websockets.server at 2024-04-26 06:49:31,310]: connection open
+[websockets.server at 2024-04-26 07:17:53,554]: connection closed
+[root at 2024-04-26 07:18:09,982]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 07:18:09,982]: connection closed
+[root at 2024-04-26 08:17:39,139]: Shutting down due to inactivity.
+[websockets.server at 2024-04-26 08:17:39,139]: server closing
+[root at 2024-04-26 08:17:39,143]: Shutting down
+[root at 2024-04-26 08:17:39,144]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 08:17:39,144]: connection closed
+[root at 2024-04-26 08:17:39,144]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 08:17:39,145]: connection closed
+[root at 2024-04-26 15:02:20,801]: Archipelago (0.4.6) logging initialized on Linux-5.15.0-105-generic-x86_64-with-glibc2.35 running Python 3.10.12
+[root at 2024-04-26 15:02:20,842]: Loaded save file with 192 received items for 3 players
+[websockets.server at 2024-04-26 15:02:20,956]: server listening on 0.0.0.0:61533
+[websockets.server at 2024-04-26 15:02:20,957]: server listening on [::]:61533
+[root at 2024-04-26 15:02:20,957]: Hosting game at archipelago.gg:61533
+[websockets.server at 2024-04-26 15:02:21,921]: connection open
+[root at 2024-04-26 15:02:22,230]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 15:02:22,230]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 15:02:35,092]: connection open
+[root at 2024-04-26 15:02:35,256]: Notice (all): Passion (Team #1) playing Pokemon Emerald has joined. Client(0.4.6), ['AP'].
+[root at 2024-04-26 15:02:35,257]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 15:19:01,843]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-26 15:19:01,843]: connection closed
+[root at 2024-04-26 17:02:20,979]: Shutting down due to inactivity.
+[websockets.server at 2024-04-26 17:02:20,980]: server closing
+[root at 2024-04-26 17:02:20,984]: Shutting down
+[root at 2024-04-26 17:02:20,985]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 17:02:20,986]: connection closed
+[root at 2024-04-26 18:02:57,885]: Archipelago (0.4.6) logging initialized on Linux-5.15.0-105-generic-x86_64-with-glibc2.35 running Python 3.10.12
+[root at 2024-04-26 18:02:57,926]: Loaded save file with 192 received items for 3 players
+[websockets.server at 2024-04-26 18:02:58,065]: server listening on [::]:61533
+[websockets.server at 2024-04-26 18:02:58,066]: server listening on 0.0.0.0:61533
+[root at 2024-04-26 18:02:58,066]: Hosting game at archipelago.gg:61533
+[websockets.server at 2024-04-26 18:03:04,521]: connection open
+[root at 2024-04-26 18:03:04,785]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-26 18:03:04,786]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 18:03:10,249]: connection open
+[root at 2024-04-26 18:03:10,562]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 18:03:10,562]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 18:03:49,173]: connection open
+[root at 2024-04-26 18:03:49,302]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-26 18:03:49,302]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 18:03:49,579]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-26 18:07:05,947]: (Team #1) Dagel sent Carbos to Passion (Security Hall - 1)
+[root at 2024-04-26 18:08:59,744]: (Team #1) Dagel sent Knuckles - Shovel Claws to Dagel (Security Hall - Chao Key 1)
+[root at 2024-04-26 18:12:53,583]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Security Hall - Chao Key 2)
+[root at 2024-04-26 18:13:35,947]: (Team #1) Dagel sent Emblem to Dagel (Security Hall - Chao Key 3)
+[root at 2024-04-26 18:16:44,173]: (Team #1) Dagel sent Protein to Passion (Security Hall - 2)
+[root at 2024-04-26 18:18:34,648]: (Team #1) Dagel sent 5 coins to Hylian (Iron Gate - Upgrade)
+[root at 2024-04-26 18:21:41,993]: (Team #1) Dagel sent Mint Candy to Dagel (Sand Ocean - Chao Key 2)
+[root at 2024-04-26 18:23:43,417]: (Team #1) Dagel sent 50 coins to Hylian (Sand Ocean - Chao Key 3)
+[root at 2024-04-26 18:24:41,250]: Notice (all): Dagel: !hint
+[root at 2024-04-26 18:24:41,251]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 39 points.
+[root at 2024-04-26 18:24:44,311]: Notice (all): Dagel: !help
+[root at 2024-04-26 18:24:44,312]: Notice (Player Dagel in team 1): !help 
+    Returns the help listing
+!license 
+    Returns the licensing information
+!countdown seconds=10 
+    Start a countdown in seconds
+!options 
+    List all current options. Warning: lists password.
+!admin [command] 
+    Allow remote administration of the multiworld server
+        Usage: "!admin login <password>" in order to log in to the remote interface.
+        Once logged in, you can then use "!admin <command>" to issue commands.
+        If you need further help once logged in.  use "!admin /help" 
+!players 
+    Get information about connected and missing players.
+!status [tag] 
+    Get status information about your team.
+        Optionally mention a Tag name and get information on who has that Tag.
+        For example: DeathLink or EnergyLink.
+!release 
+    Sends remaining items in your world to their recipients.
+!collect 
+    Send your remaining items to yourself
+!remaining 
+    List remaining items in your game, but not their location or recipient
+!missing [filter_text] 
+    List all missing location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!checked [filter_text] 
+    List all done location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!alias [alias_name] 
+    Set your alias to the passed name.
+!getitem item_name 
+    Cheat in an item, if it is enabled on this server
+!hint [item_name] 
+    Use !hint {item_name},
+        for example !hint Lamp to get a spoiler peek for that item.
+        If hint costs are on, this will only give you one new result,
+        you can rerun the command to get more in that case.
+!hint_location [location] 
+    Use !hint_location {location_name},
+        for example !hint_location atomic-bomb to get a spoiler peek for that location.
+!video platform user 
+    Set a link for your name in the WebHostLib tracker pointing to a video stream.
+        Currently, only YouTube and Twitch platforms are supported.
+        
+
+[root at 2024-04-26 18:28:42,328]: (Team #1) Dagel sent Emblem to Dagel (Sand Ocean - 1)
+[root at 2024-04-26 18:35:27,289]: (Team #1) Dagel sent 5 coins to Hylian (Sand Ocean - Chao Key 1)
+[root at 2024-04-26 18:39:29,505]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Sand Ocean - 2)
+[root at 2024-04-26 18:42:18,350]: (Team #1) Dagel sent Wood Mail to Passion (Wild Canyon - Upgrade)
+[root at 2024-04-26 18:44:54,724]: (Team #1) Dagel sent Shadow Mail to Passion (Lost Colony - Upgrade)
+[root at 2024-04-26 18:47:00,663]: (Team #1) Dagel sent 5 coins to Hylian (Gate 2 Boss)
+[root at 2024-04-26 18:48:30,413]: (Team #1) Dagel sent 50 coins to Hylian (Pyramid Cave - Chao Key 1)
+[root at 2024-04-26 18:49:01,330]: (Team #1) Dagel sent Magnetic Shield to Dagel (Pyramid Cave - Upgrade)
+[root at 2024-04-26 18:49:23,518]: (Team #1) Dagel sent 10 coins to Hylian (Pyramid Cave - Chao Key 2)
+[root at 2024-04-26 18:54:33,348]: (Team #1) Dagel sent 5 coins to Hylian (Pyramid Cave - 1)
+[root at 2024-04-26 18:57:00,635]: (Team #1) Dagel sent PP Max to Passion (Pyramid Cave - 2)
+[websockets.server at 2024-04-26 18:57:42,374]: connection open
+[root at 2024-04-26 18:57:44,650]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-26 18:57:44,651]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 18:58:00,773]: (Team #1) Dagel sent 50 coins to Hylian (Dry Lagoon - Chao Key 2)
+[root at 2024-04-26 18:58:41,103]: (Team #1) Dagel sent 5 coins to Hylian (Dry Lagoon - Chao Key 1)
+[root at 2024-04-26 19:01:14,420]: (Team #1) Dagel sent Kelpsy Berry to Passion (Dry Lagoon - 1)
+[root at 2024-04-26 19:03:17,536]: (Team #1) Dagel sent Silk Scarf to Passion (Dry Lagoon - Upgrade)
+[root at 2024-04-26 19:04:58,397]: (Team #1) Dagel sent 10 coins to Hylian (Dry Lagoon - 2)
+[root at 2024-04-26 19:05:45,380]: (Team #1) Dagel sent Emblem to Dagel (Dry Lagoon - Chao Key 3)
+[root at 2024-04-26 19:06:01,154]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 19:06:01,154]: connection closed
+[root at 2024-04-26 19:10:31,932]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 19:10:31,932]: connection closed
+[websockets.server at 2024-04-26 19:25:12,369]: connection open
+[root at 2024-04-26 19:25:12,501]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-26 19:25:12,501]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 19:25:12,789]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-26 19:27:16,260]: (Team #1) Dagel sent Grepa Berry to Passion (Final Chase - Chao Key 1)
+[root at 2024-04-26 19:29:23,878]: (Team #1) Dagel sent 10 coins to Hylian (Final Chase - Upgrade)
+[root at 2024-04-26 19:31:00,737]: (Team #1) Dagel sent Kelpsy Berry to Passion (Final Chase - Chao Key 3)
+[root at 2024-04-26 19:33:04,110]: (Team #1) Dagel sent 50 coins to Hylian (Final Chase - 1)
+[root at 2024-04-26 19:37:29,696]: (Team #1) Dagel sent Mind Badge to Passion (Final Chase - 2)
+[root at 2024-04-26 19:51:00,251]: (Team #1) Dagel sent Ten Rings to Dagel (Final Chase - Chao Key 2)
+[root at 2024-04-26 19:52:46,782]: (Team #1) Dagel sent 50 coins to Hylian (Weapons Bed - Upgrade)
+[root at 2024-04-26 19:52:54,853]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Weapons Bed - Chao Key 1)
+[websockets.server at 2024-04-26 19:54:40,963]: connection open
+[root at 2024-04-26 19:54:44,342]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'TextOnly'].
+[root at 2024-04-26 19:54:44,342]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 19:54:49,913]: Notice (all): Hylian: !hint
+[root at 2024-04-26 19:54:49,913]: Notice (Team #1): [Hint]: Hylian's Climb is at Cookie Mountain - Coin Block #11 in Hylian's World at Special Zone.
+[root at 2024-04-26 19:54:49,913]: Notice (Player Hylian in team 1): A hint costs 69 points. You have 76 points.
+[root at 2024-04-26 19:54:49,913]: Notice (Player Hylian in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-26 19:55:03,389]: Notice (all): Hylian: !hint pswitch
+[root at 2024-04-26 19:55:03,390]: Notice (Team #1): [Hint]: Hylian's P-Switch is at Route 111 - Berry Tree 1 in Passion's World.
+[root at 2024-04-26 19:57:11,283]: (Team #1) Dagel sent Max Ether to Passion (White Jungle - Upgrade)
+[root at 2024-04-26 20:00:04,076]: (Team #1) Dagel sent Emblem to Dagel (White Jungle - Chao Key 1)
+[root at 2024-04-26 20:01:48,979]: (Team #1) Dagel sent Max Elixir to Passion (White Jungle - Chao Key 2)
+[root at 2024-04-26 20:02:49,164]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (White Jungle - Chao Key 3)
+[root at 2024-04-26 20:03:09,329]: (Team #1) Dagel sent Emblem to Dagel (White Jungle - 1)
+[root at 2024-04-26 20:10:02,204]: (Team #1) Dagel sent 5 coins to Hylian (White Jungle - 2)
+[root at 2024-04-26 20:10:50,059]: Notice (all): Dagel: !hint
+[root at 2024-04-26 20:10:50,060]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 70 points.
+[root at 2024-04-26 20:10:55,944]: Notice (all): Dagel: !hint progressive power up
+[root at 2024-04-26 20:10:55,946]: Notice (Player Dagel in team 1): Didn't find something that closely matches 'progressive power up', did you mean 'Reverse Trap'? (35% sure)
+[root at 2024-04-26 20:11:07,451]: Notice (all): Dagel: !hint hylian
+[root at 2024-04-26 20:11:07,453]: Notice (Player Dagel in team 1): Didn't find something that closely matches 'hylian', did you mean 'HalfFish'? (37% sure)
+[root at 2024-04-26 20:11:19,915]: Notice (all): Dagel: !hint progressive power up hylian
+[root at 2024-04-26 20:11:19,917]: Notice (Player Dagel in team 1): Didn't find something that closely matches 'progressive power up hylian', did you mean 'Reverse Trap'? (25% sure)
+[root at 2024-04-26 20:11:27,480]: Notice (all): Dagel: !help hint
+[root at 2024-04-26 20:11:27,480]: Notice (Player Dagel in team 1): Traceback (most recent call last):
+  File "/Projects/Archipelago/MultiServer.py", line 1119, in __call__
+    return method(self, *command[1:])  # pass each word as argument
+TypeError: CommandProcessor._cmd_help() takes 1 positional argument but 2 were given
+
+[root at 2024-04-26 20:11:34,643]: Notice (all): Dagel: !help
+[root at 2024-04-26 20:11:34,644]: Notice (Player Dagel in team 1): !help 
+    Returns the help listing
+!license 
+    Returns the licensing information
+!countdown seconds=10 
+    Start a countdown in seconds
+!options 
+    List all current options. Warning: lists password.
+!admin [command] 
+    Allow remote administration of the multiworld server
+        Usage: "!admin login <password>" in order to log in to the remote interface.
+        Once logged in, you can then use "!admin <command>" to issue commands.
+        If you need further help once logged in.  use "!admin /help" 
+!players 
+    Get information about connected and missing players.
+!status [tag] 
+    Get status information about your team.
+        Optionally mention a Tag name and get information on who has that Tag.
+        For example: DeathLink or EnergyLink.
+!release 
+    Sends remaining items in your world to their recipients.
+!collect 
+    Send your remaining items to yourself
+!remaining 
+    List remaining items in your game, but not their location or recipient
+!missing [filter_text] 
+    List all missing location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!checked [filter_text] 
+    List all done location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!alias [alias_name] 
+    Set your alias to the passed name.
+!getitem item_name 
+    Cheat in an item, if it is enabled on this server
+!hint [item_name] 
+    Use !hint {item_name},
+        for example !hint Lamp to get a spoiler peek for that item.
+        If hint costs are on, this will only give you one new result,
+        you can rerun the command to get more in that case.
+!hint_location [location] 
+    Use !hint_location {location_name},
+        for example !hint_location atomic-bomb to get a spoiler peek for that location.
+!video platform user 
+    Set a link for your name in the WebHostLib tracker pointing to a video stream.
+        Currently, only YouTube and Twitch platforms are supported.
+        
+
+[root at 2024-04-26 20:15:28,984]: Notice (all): Dagel: !hint_location Radical Highway-Upgrade
+[root at 2024-04-26 20:15:29,018]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0.
+[root at 2024-04-26 20:17:00,064]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Radical Highway - Upgrade)
+[root at 2024-04-26 20:29:18,267]: (Team #1) Dagel sent 50 coins to Hylian (Lost Colony - Chao Key 1)
+[root at 2024-04-26 20:30:06,568]: (Team #1) Dagel sent 10 coins to Hylian (Lost Colony - Chao Key 2)
+[root at 2024-04-26 20:35:55,573]: Notice (all): Dagel: !hint jet engine
+[root at 2024-04-26 20:35:55,575]: Notice (Player Dagel in team 1): Didn't find something that closely matches 'jet engine', did you mean 'Eggman - Jet Engine'? (52% sure)
+[root at 2024-04-26 20:36:02,993]: Notice (all): Dagel: !hint eggman - jet engine
+[root at 2024-04-26 20:36:02,995]: Notice (Team #1): [Hint]: Dagel's Eggman - Jet Engine is at Route 120 - Berry Tree in Side Area 2 in Passion's World.
+[root at 2024-04-26 20:40:29,932]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 20:40:29,932]: connection closed
+[root at 2024-04-26 20:54:07,295]: Notice (all): Dagel: !hint
+[root at 2024-04-26 20:54:07,295]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-26 20:54:07,295]: Notice (Team #1): [Hint]: Dagel's Eggman - Jet Engine is at Route 120 - Berry Tree in Side Area 2 in Passion's World.
+[root at 2024-04-26 20:54:07,295]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 37 points.
+[root at 2024-04-26 20:54:07,295]: Notice (Player Dagel in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[websockets.server at 2024-04-26 20:57:09,489]: connection open
+[root at 2024-04-26 20:57:09,623]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-26 20:57:09,623]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 20:57:09,899]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-26 20:57:11,838]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-26 20:57:11,838]: connection closed
+[root at 2024-04-26 20:57:39,696]: Notice (all): Dagel: !hint_location
+[root at 2024-04-26 20:57:39,697]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-26 20:57:39,697]: Notice (Team #1): [Hint]: Dagel's Eggman - Jet Engine is at Route 120 - Berry Tree in Side Area 2 in Passion's World.
+[root at 2024-04-26 20:57:39,697]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 37 points.
+[root at 2024-04-26 20:57:39,697]: Notice (Player Dagel in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-26 20:57:49,351]: Notice (all): Dagel: !hint_location pyramid cave - chao key 3
+[root at 2024-04-26 20:57:49,382]: Notice (Team #1): [Hint]: Passion's Rare Candy is at Pyramid Cave - Chao Key 3 in Dagel's World at Gate 2.
+[root at 2024-04-26 21:50:42,418]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 21:50:42,419]: connection closed
+[websockets.server at 2024-04-26 21:51:12,896]: connection open
+[root at 2024-04-26 21:51:14,701]: A client connection was refused due to: {'InvalidSlot'}, the sent connect information was {'cmd': 'Connect', 'password': None, 'name': '/connect archipelago.gg:61533', 'version': Version(major=0, minor=4, build=6), 'tags': ['AP', 'TextOnly'], 'items_handling': 7, 'uuid': 44877753926626, 'game': '', 'slot_data': False}.
+[websockets.server at 2024-04-26 21:51:14,957]: connection closed
+[websockets.server at 2024-04-26 21:51:20,536]: connection open
+[websockets.server at 2024-04-26 21:51:42,310]: connection open
+[root at 2024-04-26 21:51:42,597]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 21:51:42,597]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 22:19:51,980]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-26 22:19:51,980]: connection closed
+[websockets.server at 2024-04-26 22:24:06,727]: connection open
+[root at 2024-04-26 22:24:06,898]: Notice (all): Passion (Team #1) playing Pokemon Emerald has joined. Client(0.4.6), ['AP'].
+[root at 2024-04-26 22:24:06,898]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 22:24:24,087]: (Team #1) Passion sent Old Rod to Passion (Route 104 - Item Near Briney on Ledge)
+[root at 2024-04-26 22:24:24,087]: (Team #1) Passion sent 10 coins to Hylian (Route 102 - Item)
+[root at 2024-04-26 22:24:24,087]: (Team #1) Passion sent Great Ball to Passion (Route 104 - Hidden Item on Beach 1)
+[root at 2024-04-26 22:24:24,089]: (Team #1) Passion sent HP Up to Passion (Route 104 - Hidden Item on Beach 2)
+[root at 2024-04-26 22:24:24,089]: (Team #1) Passion sent 50 coins to Hylian (Route 104 - Hidden Item on Beach 3)
+[root at 2024-04-26 22:26:03,793]: (Team #1) Passion sent TM08 to Passion (Petalburg Woods - Item Northwest)
+[websockets.server at 2024-04-26 22:27:36,406]: connection open
+[root at 2024-04-26 22:27:36,701]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 22:27:36,701]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-26 22:28:02,416]: connection open
+[root at 2024-04-26 22:28:02,718]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 22:28:02,719]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 22:29:10,619]: (Team #1) Passion sent Hyper Potion to Passion (Route 104 - Berry Tree Flower Shop 1)
+[root at 2024-04-26 22:29:13,719]: (Team #1) Passion sent 10 coins to Hylian (Route 104 - Berry Tree Flower Shop 2)
+[root at 2024-04-26 22:29:15,877]: (Team #1) Passion sent 5 coins to Hylian (Route 104 - Berry Tree Flower Shop 3)
+[root at 2024-04-26 22:29:18,586]: (Team #1) Passion sent Emblem to Dagel (Route 104 - Berry Tree Flower Shop 4)
+[root at 2024-04-26 22:29:40,747]: (Team #1) Passion sent 10 coins to Hylian (Route 104 - Item Behind Flower Shop)
+[root at 2024-04-26 22:35:29,293]: (Team #1) Passion sent 50 coins to Hylian (Route 104 - Wailmer Pail from Flower Shop Lady)
+[root at 2024-04-26 22:35:33,622]: (Team #1) Passion sent Full Heal to Passion (Route 104 - Berry from Girl in Flower Shop)
+[root at 2024-04-26 22:35:40,294]: (Team #1) Passion sent 5 coins to Hylian (Route 104 - TM09 from Boy)
+[root at 2024-04-26 22:37:34,222]: (Team #1) Passion sent Ten Rings to Dagel (Route 104 - Berry Tree North 3)
+[root at 2024-04-26 22:37:36,612]: (Team #1) Passion sent Blue Shard to Passion (Route 104 - Berry Tree North 2)
+[root at 2024-04-26 22:37:39,538]: (Team #1) Passion sent Pokeblock Case to Passion (Route 104 - Berry Tree North 1)
+[root at 2024-04-26 22:37:43,494]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Route 104 - Gift from Woman Near Berries)
+[root at 2024-04-26 22:40:44,589]: (Team #1) Passion sent Pinap Berry to Passion (Rustboro City - HM01 from Cutter's House)
+[root at 2024-04-26 22:41:28,247]: (Team #1) Passion sent Emblem to Dagel (Rustboro City - Gift from Boy in Apartments)
+[root at 2024-04-26 22:46:19,284]: (Team #1) Passion sent HP Up to Passion (Rustboro Gym - Stone Badge)
+[root at 2024-04-26 22:46:22,573]: (Team #1) Passion sent Rare Candy to Passion (Rustboro Gym - TM39 from Roxanne)
+[root at 2024-04-26 22:47:14,212]: (Team #1) Passion sent Emblem to Dagel (Route 116 - Item in Grass)
+[root at 2024-04-26 22:54:37,327]: (Team #1) Passion sent 10 coins to Hylian (Route 116 - Item Near Tunnel)
+[root at 2024-04-26 22:58:23,237]: (Team #1) Passion sent Pinap Berry to Passion (Rusturf Tunnel - Item West)
+[websockets.server at 2024-04-26 22:59:08,051]: connection open
+[root at 2024-04-26 22:59:43,807]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-26 22:59:43,808]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 23:00:04,904]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-26 23:00:04,904]: connection closed
+[root at 2024-04-26 23:01:09,787]: (Team #1) Passion sent Emblem to Dagel (Rusturf Tunnel - Recover Devon Goods)
+[root at 2024-04-26 23:01:10,086]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 23:01:10,087]: connection closed
+[websockets.server at 2024-04-26 23:01:16,948]: connection open
+[root at 2024-04-26 23:01:25,116]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'DeathLink'].
+[root at 2024-04-26 23:01:25,116]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 23:02:21,476]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Rustboro City - Gift from Devon Employee)
+[root at 2024-04-26 23:02:42,062]: (Team #1) Passion sent TM24 to Passion (Devon Corp 3F - Letter from Mr. Stone)
+[websockets.server at 2024-04-26 23:03:30,769]: connection open
+[root at 2024-04-26 23:03:30,913]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 23:03:30,913]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 23:03:49,392]: (Team #1) Hylian sent Emblem to Dagel (Donut Plains 3 - Vine Block #1)
+[root at 2024-04-26 23:04:53,323]: (Team #1) Passion sent Balance Badge to Passion (Rustboro City - Quick Claw from School Teacher)
+[root at 2024-04-26 23:08:07,153]: (Team #1) Passion sent 10 coins to Hylian (Route 104 - Hidden Item Behind Flower Shop 1)
+[root at 2024-04-26 23:08:33,904]: (Team #1) Passion sent 50 coins to Hylian (Route 104 - Hidden Item Behind Flower Shop 2)
+[root at 2024-04-26 23:09:08,211]: (Team #1) Passion sent Super Rod to Passion (Rustboro City - Item Behind Fences)
+[root at 2024-04-26 23:15:50,818]: (Team #1) Passion sent Rare Candy to Passion (Dewford Town - Old Rod from Fisherman)
+[root at 2024-04-26 23:17:08,455]: (Team #1) Passion sent Big Pearl to Passion (Route 106 - Hidden Item on Beach 2)
+[websockets.server at 2024-04-26 23:18:32,452]: connection open
+[root at 2024-04-26 23:18:32,589]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-26 23:18:32,590]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 23:18:32,862]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-26 23:18:40,896]: (Team #1) Passion sent 50 coins to Hylian (Route 106 - Hidden Item on Beach 1)
+[root at 2024-04-26 23:18:51,323]: (Team #1) Passion sent Never-Melt Ice to Passion (Route 106 - Hidden Item on Beach 3)
+[root at 2024-04-26 23:18:55,829]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-26 23:18:55,829]: connection closed
+[websockets.server at 2024-04-26 23:19:00,853]: connection open
+[root at 2024-04-26 23:19:01,156]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-26 23:19:01,156]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-26 23:19:11,726]: (Team #1) Dagel sent Pomeg Berry to Passion (Gate 3 Boss)
+[root at 2024-04-26 23:20:13,574]: (Team #1) Passion sent Ultra Ball to Passion (Route 106 - Item on West Beach)
+[root at 2024-04-26 23:21:21,374]: (Team #1) Dagel sent Cheri Berry to Passion (Final Rush - Chao Key 2)
+[root at 2024-04-26 23:31:34,987]: (Team #1) Dagel sent 10 coins to Hylian (Final Rush - Chao Key 3)
+[root at 2024-04-26 23:33:40,106]: (Team #1) Dagel sent 50 coins to Hylian (Final Rush - 1)
+[root at 2024-04-26 23:35:11,760]: (Team #1) Dagel sent 1 coin to Hylian (Final Rush - Chao Key 1)
+[root at 2024-04-26 23:36:27,930]: Notice (all): Hylian: !help
+[root at 2024-04-26 23:36:27,931]: Notice (Player Hylian in team 1): !help 
+    Returns the help listing
+!license 
+    Returns the licensing information
+!countdown seconds=10 
+    Start a countdown in seconds
+!options 
+    List all current options. Warning: lists password.
+!admin [command] 
+    Allow remote administration of the multiworld server
+        Usage: "!admin login <password>" in order to log in to the remote interface.
+        Once logged in, you can then use "!admin <command>" to issue commands.
+        If you need further help once logged in.  use "!admin /help" 
+!players 
+    Get information about connected and missing players.
+!status [tag] 
+    Get status information about your team.
+        Optionally mention a Tag name and get information on who has that Tag.
+        For example: DeathLink or EnergyLink.
+!release 
+    Sends remaining items in your world to their recipients.
+!collect 
+    Send your remaining items to yourself
+!remaining 
+    List remaining items in your game, but not their location or recipient
+!missing [filter_text] 
+    List all missing location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!checked [filter_text] 
+    List all done location checks from the server's perspective.
+        Can be given text, which will be used as filter.
+!alias [alias_name] 
+    Set your alias to the passed name.
+!getitem item_name 
+    Cheat in an item, if it is enabled on this server
+!hint [item_name] 
+    Use !hint {item_name},
+        for example !hint Lamp to get a spoiler peek for that item.
+        If hint costs are on, this will only give you one new result,
+        you can rerun the command to get more in that case.
+!hint_location [location] 
+    Use !hint_location {location_name},
+        for example !hint_location atomic-bomb to get a spoiler peek for that location.
+!video platform user 
+    Set a link for your name in the WebHostLib tracker pointing to a video stream.
+        Currently, only YouTube and Twitch platforms are supported.
+        
+
+[root at 2024-04-26 23:37:41,614]: (Team #1) Dagel sent 10 coins to Hylian (Final Rush - 2)
+[root at 2024-04-26 23:43:23,290]: (Team #1) Dagel sent Emblem to Dagel (Final Rush - Upgrade)
+[root at 2024-04-26 23:44:24,885]: (Team #1) Dagel sent Qualot Berry to Passion (Mission Street - Upgrade)
+[root at 2024-04-26 23:45:40,181]: (Team #1) Dagel sent 5 coins to Hylian (Mission Street - Chao Key 1)
+[root at 2024-04-26 23:46:06,436]: (Team #1) Dagel sent 10 coins to Hylian (Mission Street - Chao Key 2)
+[root at 2024-04-26 23:48:26,981]: (Team #1) Dagel sent 10 coins to Hylian (Prison Lane - Chao Key 3)
+[root at 2024-04-26 23:51:06,095]: (Team #1) Dagel sent Oran Berry to Passion (Prison Lane - 1)
+[root at 2024-04-27 00:00:31,850]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Prison Lane - 2)
+[root at 2024-04-27 00:00:40,765]: (Team #1) Passion sent Repel to Passion (Route 115 - Item on Beach)
+[root at 2024-04-27 00:03:49,857]: (Team #1) Dagel sent Charcoal to Passion (Egg Quarters - Chao Key 1)
+[root at 2024-04-27 00:06:12,206]: (Team #1) Dagel sent Timer Ball to Passion (Egg Quarters - Upgrade)
+[root at 2024-04-27 00:06:34,936]: (Team #1) Passion sent 5 coins to Hylian (Meteor Falls 1F - Item Northeast)
+[root at 2024-04-27 00:06:38,560]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Egg Quarters - Chao Key 2)
+[root at 2024-04-27 00:07:00,820]: (Team #1) Dagel sent 1 coin to Hylian (Egg Quarters - 1)
+[root at 2024-04-27 00:11:15,500]: (Team #1) Dagel sent 1-Up Mushroom to Hylian (Egg Quarters - 2)
+[root at 2024-04-27 00:12:18,428]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 00:12:18,428]: connection closed
+[root at 2024-04-27 00:18:17,174]: (Team #1) Passion sent Emblem to Dagel (Route 104 - Item Behind Tree)
+[root at 2024-04-27 00:18:23,812]: (Team #1) Passion sent TM44 to Passion (Route 104 - Item East Past Pond)
+[websockets.server at 2024-04-27 00:19:22,405]: connection open
+[root at 2024-04-27 00:19:22,708]: A client connection was refused due to: {'InvalidSlot'}, the sent connect information was {'cmd': 'Connect', 'password': '', 'game': '', 'name': '', 'uuid': '45631474-ea9f-441c-92d0-2501463834ae', 'version': Version(major=0, minor=4, build=0), 'tags': ['BK_Sudoku', 'TextOnly'], 'items_handling': 0, 'slot_data': False}.
+[websockets.server at 2024-04-27 00:19:45,037]: connection open
+[root at 2024-04-27 00:19:45,197]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.0), ['BK_Sudoku', 'TextOnly'].
+[root at 2024-04-27 00:19:45,197]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 00:19:45,376]: Notice (all): Hylian (Team #1) has changed tags from ['BK_Sudoku', 'TextOnly'] to ['BK_Sudoku', 'TextOnly', 'DeathLink'].
+[root at 2024-04-27 00:21:49,594]: (Team #1) Passion sent Bluk Berry to Passion (Route 115 - Item on Ledge)
+[root at 2024-04-27 00:22:29,385]: (Team #1) Passion sent Heart Scale to Passion (Meteor Falls 1F - Item West)
+[root at 2024-04-27 00:23:49,127]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 00:23:49,128]: connection closed
+[websockets.server at 2024-04-27 00:24:34,847]: connection open
+[root at 2024-04-27 00:24:35,142]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 00:24:35,142]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 00:28:03,699]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 00:28:03,700]: connection closed
+[root at 2024-04-27 00:28:42,431]: (Team #1) Passion sent 10 coins to Hylian (Littleroot Town - Amulet Coin from Mom)
+[root at 2024-04-27 00:32:28,258]: (Team #1) Passion sent 5 coins to Hylian (Route 110 - Item South of Rival)
+[root at 2024-04-27 00:34:10,350]: (Team #1) Passion sent 50 coins to Hylian (Route 110 - Itemfinder from Rival)
+[root at 2024-04-27 00:36:05,633]: (Team #1) Passion sent Sitrus Berry to Passion (Route 110 - Item South of Berries)
+[root at 2024-04-27 00:36:34,306]: (Team #1) Passion sent Oran Berry to Passion (Route 110 - Berry Tree 2)
+[root at 2024-04-27 00:36:36,333]: (Team #1) Passion sent 1 coin to Hylian (Route 110 - Berry Tree 1)
+[root at 2024-04-27 00:36:38,418]: (Team #1) Passion sent 50 coins to Hylian (Route 110 - Berry Tree 3)
+[root at 2024-04-27 00:38:53,463]: (Team #1) Passion sent 50 coins to Hylian (Route 111 - Item Near Winstrates)
+[root at 2024-04-27 00:39:18,443]: (Team #1) Passion sent Progressive Powerup to Hylian (Route 111 - Item West of Pond Near Winstrates)
+[root at 2024-04-27 00:45:37,766]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 00:45:37,767]: connection closed
+[websockets.server at 2024-04-27 00:45:58,812]: connection open
+[root at 2024-04-27 00:45:59,103]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 00:45:59,103]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 00:47:24,435]: (Team #1) Passion sent 10 coins to Hylian (Mauville Gym - Dynamo Badge)
+[root at 2024-04-27 00:47:28,013]: (Team #1) Passion sent 50 coins to Hylian (Mauville Gym - TM34 from Wattson)
+[root at 2024-04-27 00:50:27,070]: Notice (Team #1): [Hint]: Hylian's 50 coins is at Chocolate Fortress - Coin Block #1 in Hylian's World at Valley of Bowser.
+[root at 2024-04-27 00:52:26,491]: (Team #1) Passion sent 50 coins to Hylian (Verdanturf Town - TM45 from Woman in Battle Tent)
+[websockets.server at 2024-04-27 00:53:43,291]: connection open
+[root at 2024-04-27 00:53:51,854]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['DeathLink', 'AP'].
+[root at 2024-04-27 00:53:51,854]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 00:54:00,175]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 00:54:00,175]: connection closed
+[websockets.server at 2024-04-27 00:54:07,671]: connection open
+[root at 2024-04-27 00:54:07,962]: Notice (all): Hylian (Team #1) tracking Super Mario World has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 00:54:07,963]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 00:58:37,758]: Notice (all): Hylian: !hints
+[root at 2024-04-27 00:58:37,758]: Notice (Player Hylian in team 1): Could not find command hints. Known commands: help, license, countdown, options, admin, players, status, release, collect, remaining, missing, checked, alias, getitem, hint, hint_location, video
+[root at 2024-04-27 00:58:40,036]: Notice (all): Hylian: !hint
+[root at 2024-04-27 00:58:40,036]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-27 00:58:40,036]: Notice (Team #1): [Hint]: Hylian's 50 coins is at Chocolate Fortress - Coin Block #1 in Hylian's World at Valley of Bowser.
+[root at 2024-04-27 00:58:40,037]: Notice (Team #1): [Hint]: Hylian's Climb is at Cookie Mountain - Coin Block #11 in Hylian's World at Special Zone.
+[root at 2024-04-27 00:58:40,037]: Notice (Team #1): [Hint]: Hylian's P-Switch is at Route 111 - Berry Tree 1 in Passion's World.
+[root at 2024-04-27 00:58:40,037]: Notice (Player Hylian in team 1): A hint costs 69 points. You have 8 points.
+[root at 2024-04-27 00:58:40,037]: Notice (Player Hylian in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-27 00:59:39,210]: (Team #1) Passion sent 5 coins to Hylian (Route 113 - Soot Sack from Glass Blower)
+[root at 2024-04-27 01:00:34,746]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 01:00:34,746]: connection closed
+[root at 2024-04-27 01:02:04,806]: (Team #1) Passion sent Persim Berry to Passion (Route 113 - Item on Ledge)
+[root at 2024-04-27 01:04:18,930]: (Team #1) Passion sent P-Switch to Hylian (Route 111 - Berry Tree 1)
+[root at 2024-04-27 01:04:35,328]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Route 111 - Berry Tree 2)
+[root at 2024-04-27 01:04:37,003]: (Team #1) Hylian sent TM27 to Passion (Valley Ghost House - P-Switch Coin Block #1)
+[root at 2024-04-27 01:04:39,991]: (Team #1) Passion sent Max Revive to Passion (Route 111 - Berry Tree 3)
+[root at 2024-04-27 01:04:41,880]: (Team #1) Passion sent 10 coins to Hylian (Route 111 - Berry Tree 4)
+[root at 2024-04-27 01:04:45,554]: (Team #1) Hylian sent HP Up to Passion (Valley Ghost House - Directional Coin Block #1)
+[root at 2024-04-27 01:05:31,091]: (Team #1) Passion sent Dire Hit to Passion (Route 111 - Secret Power from Man Near Tree)
+[root at 2024-04-27 01:05:45,233]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 01:05:45,233]: connection closed
+[root at 2024-04-27 01:06:06,063]: (Team #1) Hylian sent Emblem to Dagel (Valley Ghost House - Multi Coin Block #1)
+[root at 2024-04-27 01:07:13,016]: (Team #1) Hylian sent Pearl to Passion (Valley Ghost House - Normal Exit)
+[root at 2024-04-27 01:07:52,874]: (Team #1) Hylian sent 1 coin to Hylian (Chocolate Island 5 - Yoshi Block #1)
+[root at 2024-04-27 01:09:00,446]: (Team #1) Passion sent 50 coins to Hylian (Route 112 - Berry Tree 4)
+[root at 2024-04-27 01:09:03,365]: (Team #1) Passion sent Tails - Laser Blaster to Dagel (Route 112 - Berry Tree 2)
+[root at 2024-04-27 01:09:10,612]: (Team #1) Passion sent 5 coins to Hylian (Route 112 - Berry Tree 1)
+[root at 2024-04-27 01:09:12,833]: (Team #1) Passion sent 5 coins to Hylian (Route 112 - Berry Tree 3)
+[root at 2024-04-27 01:09:58,478]: (Team #1) Hylian sent Revive to Passion (Chocolate Island 5 - Normal Exit)
+[root at 2024-04-27 01:10:14,565]: (Team #1) Hylian sent Emblem to Dagel (Chocolate Island 5 - Powerup Block #1)
+[root at 2024-04-27 01:12:50,159]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (Chocolate Island 5 - 1-Up Mushroom Block #1)
+[root at 2024-04-27 01:15:07,273]: (Team #1) Hylian sent Emblem to Dagel (#2 Morton's Castle - Coin Block #2)
+[root at 2024-04-27 01:15:07,921]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (#2 Morton's Castle - Coin Block #1)
+[root at 2024-04-27 01:15:08,057]: (Team #1) Hylian sent Orange Mail to Passion (#2 Morton's Castle - Powerup Block #1)
+[root at 2024-04-27 01:16:04,760]: (Team #1) Hylian sent 10 coins to Hylian (#2 Morton's Castle - Vine Block #1)
+[root at 2024-04-27 01:16:24,800]: (Team #1) Hylian sent 1-Up Mushroom to Hylian (#2 Morton's Castle - Coin Block #3)
+[root at 2024-04-27 01:16:25,900]: (Team #1) Hylian sent 10 coins to Hylian (#2 Morton's Castle - Coin Block #4)
+[root at 2024-04-27 01:16:27,020]: (Team #1) Hylian sent 50 coins to Hylian (#2 Morton's Castle - Coin Block #5)
+[root at 2024-04-27 01:17:53,191]: (Team #1) Hylian sent 50 coins to Hylian (#2 Morton's Castle - Normal Exit)
+[root at 2024-04-27 01:17:53,317]: (Team #1) Hylian sent Boss Token to Hylian (#2 Morton's Castle - Boss)
+[root at 2024-04-27 01:18:12,452]: (Team #1) Passion sent 1-Up Mushroom to Hylian (Mt Chimney - Meteorite from Machine)
+[root at 2024-04-27 01:18:33,232]: (Team #1) Hylian sent Zinc to Passion (Star Road 5 - Directional Coin Block #1)
+[root at 2024-04-27 01:20:48,176]: (Team #1) Passion sent 5 coins to Hylian (Jagged Pass - Item Below Hideout)
+[root at 2024-04-27 01:25:00,207]: (Team #1) Hylian sent 10 coins to Hylian (Star Road 5 - 1-Up Mushroom Block #1)
+[root at 2024-04-27 01:25:29,074]: (Team #1) Hylian sent 5 coins to Hylian (Star Road 5 - Vine Block #1)
+[root at 2024-04-27 01:28:48,705]: (Team #1) Hylian sent Ether to Passion (Star Road 5 - Normal Exit)
+[root at 2024-04-27 01:29:00,935]: (Team #1) Hylian sent TM09 to Passion (Cheese Bridge Area - Powerup Block #1)
