@@ -61,7 +61,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
 
 def main():
     input_file = 'log_file.txt'  # Update with your log file path
-    output_file = 'output.txt'    # Update with your desired output file path
+    output_file = 'output.md'    # Update with your desired output file path
     sender_receiver_items = parse_log_file(input_file)
     print_sender_receiver_pairs(sender_receiver_items, output_file)
 
