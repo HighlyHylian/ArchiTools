@@ -48,7 +48,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
                     recent_time = max(timestamps)
                     count = len(timestamps)
                     # Pad the item name and count with spaces to ensure alignment
-                    f.write(f"{item} (x{count})\n")
+                    f.write(f"{item} (x{count})\n\n")
                     # f.write(f"{padded_item} - {recent_time}\n")
                 f.write("\n")
 
