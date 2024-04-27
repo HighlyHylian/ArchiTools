@@ -1,9 +1,10 @@
-# All Current Sends As Of 2024-04-26 21:27:16.037158
+# All Current Sends As Of 2024-04-26 21:28:34.028627
 
 ## Hylian sends to:
 ---------------------
 <details>
 	<summary><b>Hylian</b></summary>
+
 Carry (x1)                   - 2024-04-26 02:31:08
 
 Swim (x1)                    - 2024-04-26 04:29:46
@@ -23,6 +24,7 @@ Boss Token (x4)              - 2024-04-27 01:17:53
 </details>
 <details>
 	<summary><b>Dagel</b></summary>
+
 Purple Chaos Drive (x1)      - 2024-04-26 03:06:50
 
 Green Chaos Drive (x1)       - 2024-04-26 04:17:21
@@ -40,6 +42,7 @@ Emblem (x21)                 - 2024-04-27 01:15:07
 </details>
 <details>
 	<summary><b>Passion</b></summary>
+
 Big Pearl (x1)               - 2024-04-26 02:31:22
 
 Calcium (x1)                 - 2024-04-26 02:33:10
@@ -133,6 +136,7 @@ TM09 (x1)                    - 2024-04-27 01:29:00
 ---------------------
 <details>
 	<summary><b>Hylian</b></summary>
+
 Yoshi (x1)                   - 2024-04-26 02:38:00
 
 50 coins (x10)               - 2024-04-26 23:33:40
@@ -148,6 +152,7 @@ Yoshi (x1)                   - 2024-04-26 02:38:00
 </details>
 <details>
 	<summary><b>Passion</b></summary>
+
 Leppa Berry (x1)             - 2024-04-26 02:30:27
 
 HM03 Surf (x1)               - 2024-04-26 02:44:14
@@ -201,6 +206,7 @@ Timer Ball (x1)              - 2024-04-27 00:06:12
 </details>
 <details>
 	<summary><b>Dagel</b></summary>
+
 Knuckles - Shovel Claws (x1) - 2024-04-26 18:08:59
 
 Mint Candy (x1)              - 2024-04-26 18:21:41
@@ -216,6 +222,7 @@ Emblem (x9)                  - 2024-04-26 23:43:23
 ---------------------
 <details>
 	<summary><b>Hylian</b></summary>
+
 1 coin (x3)                  - 2024-04-27 00:36:36
 
 Progressive Powerup (x1)     - 2024-04-27 00:39:18
@@ -233,6 +240,7 @@ P-Switch (x1)                - 2024-04-27 01:04:18
 </details>
 <details>
 	<summary><b>Passion</b></summary>
+
 Mental Herb (x1)             - 2024-04-26 03:00:20
 
 Leftovers (x1)               - 2024-04-26 03:26:05
@@ -290,6 +298,7 @@ Dire Hit (x1)                - 2024-04-27 01:05:31
 </details>
 <details>
 	<summary><b>Dagel</b></summary>
+
 Ten Rings (x1)               - 2024-04-26 22:37:34
 
 Emblem (x7)                  - 2024-04-27 00:18:17

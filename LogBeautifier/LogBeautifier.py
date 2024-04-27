@@ -40,7 +40,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
             f.write(f"## {sender} sends to:\n")
             f.write("---------------------\n")
             for receiver, items_time in receiver_items.items():
-                f.write(f"<details>\n\t<summary><b>{receiver}</b></summary>\n")
+                f.write(f"<details>\n\t<summary><b>{receiver}</b></summary>\n\n")
                 # Sort items based on their timestamps
                 sorted_items = sorted(items_time.items(), key=lambda x: max(x[1]))
                 for item, timestamps in sorted_items:
