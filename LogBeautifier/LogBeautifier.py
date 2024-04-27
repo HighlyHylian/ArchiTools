@@ -48,7 +48,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
                     recent_time = max(timestamps)
                     count = len(timestamps)
                     # Pad the item name and count with spaces to ensure alignment
-                    f.write(f"{item} (x{count})\n\n")
+                    padded_item = (f"{item} (x{count})\n")
                     # f.write(f"{padded_item} - {recent_time}\n")
                 f.write("\n")
 
@@ -61,7 +61,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
 
 def main():
     input_file = 'log_file.txt'  # Update with your log file path
-    output_file = 'output.md'    # Update with your desired output file path
+    output_file = 'output.txt'    # Update with your desired output file path
     sender_receiver_items = parse_log_file(input_file)
     print_sender_receiver_pairs(sender_receiver_items, output_file)
 
