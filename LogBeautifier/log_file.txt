@@ -1815,3 +1815,222 @@ TypeError: CommandProcessor._cmd_help() takes 1 positional argument but 2 were g
 [root at 2024-04-27 07:34:19,364]: (Team #1) Hylian sent Cheri Berry to Passion (Donut Plains 1 - Green Switch Palace Block #4)
 [root at 2024-04-27 07:34:19,364]: (Team #1) Hylian sent Rouge - Treasure Scope to Dagel (Donut Plains 1 - Green Switch Palace Block #5)
 [root at 2024-04-27 07:34:19,364]: (Team #1) Hylian sent Bluk Berry to Passion (Gnarly - P-Switch Coin Block #12)
+[root at 2024-04-27 07:45:08,848]: Notice (all): Hylian: !collect
+[root at 2024-04-27 07:45:08,848]: Notice (all): Hylian (Team #1) has collected their items from other worlds.
+[root at 2024-04-27 07:45:34,076]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 07:45:34,076]: connection closed
+[root at 2024-04-27 07:45:40,556]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 07:45:40,557]: connection closed
+[websockets.server at 2024-04-27 07:45:51,622]: connection open
+[root at 2024-04-27 07:46:05,173]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'DeathLink'].
+[root at 2024-04-27 07:46:05,174]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 07:57:25,322]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 07:57:25,322]: connection closed
+[websockets.server at 2024-04-27 08:01:23,161]: connection open
+[root at 2024-04-27 09:34:19,362]: Shutting down due to inactivity.
+[websockets.server at 2024-04-27 09:34:19,362]: server closing
+[root at 2024-04-27 09:34:19,370]: Shutting down
+[root at 2024-04-27 09:34:19,370]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 09:34:19,370]: connection closed
+[root at 2024-04-27 09:34:19,371]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 09:34:19,371]: connection closed
+[root at 2024-04-27 09:34:19,371]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 09:34:19,371]: connection closed
+[websockets.server at 2024-04-27 09:34:19,371]: connection closed
+[root at 2024-04-27 12:55:57,071]: Archipelago (0.4.6) logging initialized on Linux-5.15.0-105-generic-x86_64-with-glibc2.35 running Python 3.10.12
+[root at 2024-04-27 12:55:57,110]: Loaded save file with 1122 received items for 3 players
+[websockets.server at 2024-04-27 12:55:57,219]: server listening on [::]:61533
+[websockets.server at 2024-04-27 12:55:57,219]: server listening on 0.0.0.0:61533
+[root at 2024-04-27 12:55:57,220]: Hosting game at archipelago.gg:61533
+[websockets.server at 2024-04-27 12:56:02,814]: connection open
+[root at 2024-04-27 12:56:02,956]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 12:56:02,956]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 12:56:22,464]: connection open
+[root at 2024-04-27 12:56:22,839]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-27 12:56:22,839]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 12:59:05,705]: connection open
+[root at 2024-04-27 12:59:05,839]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-27 12:59:05,839]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 12:59:06,239]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-27 13:01:06,246]: (Team #1) Dagel sent TM42 to Passion (Gate 4 Boss)
+[root at 2024-04-27 13:01:45,710]: (Team #1) Dagel sent Hyper Potion to Passion (Pumpkin Hill - Upgrade)
+[root at 2024-04-27 13:02:54,310]: (Team #1) Dagel sent Repel to Passion (Pumpkin Hill - Chao Key 2)
+[root at 2024-04-27 13:03:10,453]: (Team #1) Dagel sent Red Chaos Emerald to Dagel (Pumpkin Hill - Chao Key 1)
+[root at 2024-04-27 13:07:39,150]: (Team #1) Dagel sent Soothe Bell to Passion (Pumpkin Hill - Chao Key 3)
+[root at 2024-04-27 13:08:28,140]: (Team #1) Dagel sent Magma Emblem to Passion (Pumpkin Hill - 1)
+[root at 2024-04-27 13:14:58,566]: (Team #1) Dagel sent Razz Berry to Passion (Aquatic Mine - Upgrade)
+[root at 2024-04-27 13:16:01,107]: (Team #1) Dagel sent Pomeg Berry to Passion (Aquatic Mine - Chao Key 2)
+[root at 2024-04-27 13:23:10,831]: (Team #1) Dagel sent Rare Candy to Passion (Route 280 - 1)
+[root at 2024-04-27 13:25:10,792]: (Team #1) Dagel sent TM50 to Passion (Route 280 - 2)
+[root at 2024-04-27 13:27:19,136]: (Team #1) Dagel sent Red Chaos Drive to Dagel (Eternal Engine - Chao Key 1)
+[root at 2024-04-27 13:31:19,409]: (Team #1) Dagel sent Emblem to Dagel (Eternal Engine - Chao Key 3)
+[root at 2024-04-27 13:35:16,225]: (Team #1) Dagel sent Potion to Passion (Mission Street - Chao Key 3)
+[root at 2024-04-27 13:38:27,841]: (Team #1) Dagel sent Emblem to Dagel (Security Hall - Upgrade)
+[root at 2024-04-27 13:41:14,501]: (Team #1) Dagel sent Nanab Berry to Passion (Egg Quarters - Chao Key 3)
+[root at 2024-04-27 13:42:20,947]: (Team #1) Dagel sent Elixir to Passion (Meteor Herd - Chao Key 1)
+[root at 2024-04-27 13:43:45,663]: (Team #1) Dagel sent Room 2 Key to Passion (Meteor Herd - Chao Key 3)
+[root at 2024-04-27 13:44:59,459]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 13:44:59,459]: connection closed
+[root at 2024-04-27 13:48:43,824]: Notice (all): Dagel: !hint
+[root at 2024-04-27 13:48:43,824]: Notice (Team #1): [Hint]: Dagel's Tails - Booster is at Chocolate Island 4 - Yellow Switch Palace Block #1 in Hylian's World at Valley of Bowser. (found)
+[root at 2024-04-27 13:48:43,824]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-27 13:48:43,824]: Notice (Team #1): [Hint]: Dagel's Eggman - Jet Engine is at Route 120 - Berry Tree in Side Area 2 in Passion's World.
+[root at 2024-04-27 13:48:43,824]: Notice (Team #1): [Hint]: Passion's Rare Candy is at Pyramid Cave - Chao Key 3 in Dagel's World at Gate 2.
+[root at 2024-04-27 13:48:43,824]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 82 points.
+[root at 2024-04-27 13:48:43,824]: Notice (Player Dagel in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-27 13:48:52,864]: Notice (all): Dagel: !hint gammer gloves
+[root at 2024-04-27 13:48:52,867]: Notice (Player Dagel in team 1): Didn't find something that closely matches 'gammer gloves', did you mean 'Knuckles - Hammer Gloves'? (50% sure)
+[root at 2024-04-27 13:49:00,435]: Notice (all): Dagel: !hint knuckles - hammer gloves
+[root at 2024-04-27 13:49:00,439]: Notice (Team #1): [Hint]: Dagel's Knuckles - Hammer Gloves is at Route 124 UW - Hidden Item in Small Area North in Passion's World.
+[root at 2024-04-27 13:49:58,513]: Notice (all): Dagel: !hint knuckles - air necklace
+[root at 2024-04-27 13:49:58,516]: Notice (Team #1): [Hint]: Dagel's Knuckles - Air Necklace is at Metal Harbor - 1 in Dagel's World at Gate 5.
+[root at 2024-04-27 13:50:31,914]: Notice (all): Dagel: !hint sonic - light speed shoes
+[root at 2024-04-27 13:50:31,916]: Notice (Team #1): [Hint]: Dagel's Sonic - Light Shoes is at Mad Space - 1 in Dagel's World at Gate 5.
+[websockets.server at 2024-04-27 13:51:31,916]: connection open
+[root at 2024-04-27 13:51:32,061]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), [].
+[root at 2024-04-27 13:51:32,062]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 13:51:32,474]: Notice (all): Dagel (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2024-04-27 13:51:47,942]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 13:51:47,942]: connection closed
+[websockets.server at 2024-04-27 15:15:50,514]: connection open
+[root at 2024-04-27 15:43:45,667]: Shutting down due to inactivity.
+[websockets.server at 2024-04-27 15:43:45,667]: server closing
+[root at 2024-04-27 15:43:45,669]: Shutting down
+[root at 2024-04-27 15:43:45,670]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 15:43:45,670]: connection closed
+[websockets.server at 2024-04-27 15:43:45,670]: connection closed
+[root at 2024-04-27 15:43:45,670]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 15:43:45,670]: connection closed
+[root at 2024-04-27 17:05:20,081]: Archipelago (0.4.6) logging initialized on Linux-5.15.0-105-generic-x86_64-with-glibc2.35 running Python 3.10.12
+[root at 2024-04-27 17:05:20,118]: Loaded save file with 1139 received items for 3 players
+[websockets.server at 2024-04-27 17:05:20,210]: server listening on [::]:61533
+[websockets.server at 2024-04-27 17:05:20,211]: server listening on 0.0.0.0:61533
+[root at 2024-04-27 17:05:20,211]: Hosting game at archipelago.gg:61533
+[websockets.server at 2024-04-27 17:05:21,558]: connection open
+[root at 2024-04-27 17:05:21,875]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 17:05:21,876]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 17:05:54,049]: connection open
+[root at 2024-04-27 17:05:54,192]: Notice (all): Passion (Team #1) playing Pokemon Emerald has joined. Client(0.4.6), ['AP'].
+[root at 2024-04-27 17:05:54,192]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 17:06:12,300]: connection open
+[root at 2024-04-27 17:06:12,590]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 17:06:12,590]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 17:09:05,908]: connection open
+[root at 2024-04-27 17:09:06,314]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-27 17:09:06,314]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 17:09:21,532]: connection open
+[root at 2024-04-27 17:23:09,341]: (Team #1) Passion sent Emblem to Dagel (Route 119 - HM02 from Rival Battle)
+[root at 2024-04-27 17:23:24,132]: (Team #1) Passion sent Room 6 Key to Passion (Route 119 - Item on River Bank)
+[root at 2024-04-27 17:23:56,851]: (Team #1) Passion sent TM36 to Passion (Route 119 - Berry Tree North 2)
+[root at 2024-04-27 17:24:02,104]: (Team #1) Passion sent Green Shard to Passion (Route 119 - Berry Tree North 3)
+[root at 2024-04-27 17:51:09,379]: (Team #1) Passion sent Stone Badge to Passion (Route 120 - Item in North Puddles)
+[root at 2024-04-27 17:54:32,710]: (Team #1) Passion sent Luxury Ball to Passion (Route 120 - Item in Tall Grass Maze)
+[root at 2024-04-27 17:56:08,777]: (Team #1) Passion sent Shield to Dagel (Route 120 - Item in Tall Grass South)
+[root at 2024-04-27 17:56:15,594]: (Team #1) Passion sent Emblem to Dagel (Route 120 - Berry Tree South 3)
+[root at 2024-04-27 17:56:17,051]: (Team #1) Passion sent Poke Ball to Passion (Route 120 - Berry Tree South 1)
+[root at 2024-04-27 17:56:24,503]: (Team #1) Passion sent Emblem to Dagel (Route 120 - Berry Tree Pond 1)
+[root at 2024-04-27 17:58:01,776]: (Team #1) Passion sent Figy Berry to Passion (Route 121 - Berry Tree West 1)
+[root at 2024-04-27 18:02:20,346]: (Team #1) Passion sent Ultra Ball to Passion (Route 121 - Berry Tree East 1)
+[root at 2024-04-27 18:02:22,422]: (Team #1) Passion sent Rare Candy to Passion (Route 121 - Berry Tree East 2)
+[root at 2024-04-27 18:02:24,170]: (Team #1) Passion sent Emblem to Dagel (Route 121 - Berry Tree East 4)
+[root at 2024-04-27 18:06:48,204]: (Team #1) Passion sent Rare Candy to Passion (Lilycove City - TM44 from Man in House)
+[root at 2024-04-27 18:07:33,841]: (Team #1) Passion sent Heat Badge to Passion (Lilycove City - Item on Peninsula)
+[root at 2024-04-27 18:17:50,625]: (Team #1) Passion sent Rare Candy to Passion (Oceanic Museum - TM46 from Aqua Grunt in Museum)
+[websockets.server at 2024-04-27 18:19:54,147]: connection open
+[root at 2024-04-27 18:19:54,460]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 18:19:54,460]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 18:22:37,809]: connection open
+[root at 2024-04-27 18:22:43,702]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-27 18:22:43,702]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 18:23:11,174]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 18:23:11,174]: connection closed
+[websockets.server at 2024-04-27 18:23:21,385]: connection open
+[root at 2024-04-27 18:23:22,914]: Notice (all): Hylian (Team #1) playing Super Mario World has joined. Client(0.4.6), ['AP', 'TextOnly'].
+[root at 2024-04-27 18:23:22,914]: Notice (Player Hylian in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 18:23:24,559]: Notice (all): Hylian: !hint
+[root at 2024-04-27 18:23:24,559]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-27 18:23:24,559]: Notice (Team #1): [Hint]: Hylian's Climb is at Cookie Mountain - Coin Block #11 in Hylian's World at Special Zone. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Hylian's Progressive Powerup is at Route 123 - Berry Tree East 6 in Passion's World. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Hylian's Red Switch Palace is at Fortree City - TM10 from Hidden Power Lady in Passion's World. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Hylian's Blue Switch Palace is at Petalburg Woods - Item Past Tree Northeast in Passion's World. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Hylian's 50 coins is at Chocolate Fortress - Coin Block #1 in Hylian's World at Valley of Bowser. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Dagel's Tails - Booster is at Chocolate Island 4 - Yellow Switch Palace Block #1 in Hylian's World at Valley of Bowser. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Team #1): [Hint]: Hylian's P-Switch is at Route 111 - Berry Tree 1 in Passion's World. (found)
+[root at 2024-04-27 18:23:24,560]: Notice (Player Hylian in team 1): A hint costs 69 points. You have 345 points.
+[root at 2024-04-27 18:23:24,560]: Notice (Player Hylian in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-27 18:24:06,048]: Notice (all): Hylian (Team #1) has left the game
+[websockets.server at 2024-04-27 18:24:06,049]: connection closed
+[websockets.server at 2024-04-27 18:24:09,608]: connection open
+[root at 2024-04-27 18:24:12,000]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['AP', 'TextOnly'].
+[root at 2024-04-27 18:24:12,000]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 18:24:19,741]: Notice (all): Dagel: !hint
+[root at 2024-04-27 18:24:19,742]: Notice (Team #1): [Hint]: Hylian's 1-Up Mushroom is at Radical Highway - Upgrade in Dagel's World at Gate 0. (found)
+[root at 2024-04-27 18:24:19,742]: Notice (Team #1): [Hint]: Dagel's Tails - Booster is at Chocolate Island 4 - Yellow Switch Palace Block #1 in Hylian's World at Valley of Bowser. (found)
+[root at 2024-04-27 18:24:19,742]: Notice (Team #1): [Hint]: Dagel's Eggman - Jet Engine is at Route 120 - Berry Tree in Side Area 2 in Passion's World.
+[root at 2024-04-27 18:24:19,742]: Notice (Team #1): [Hint]: Dagel's Knuckles - Hammer Gloves is at Route 124 UW - Hidden Item in Small Area North in Passion's World.
+[root at 2024-04-27 18:24:19,742]: Notice (Team #1): [Hint]: Passion's Rare Candy is at Pyramid Cave - Chao Key 3 in Dagel's World at Gate 2.
+[root at 2024-04-27 18:24:19,743]: Notice (Team #1): [Hint]: Dagel's Sonic - Light Shoes is at Mad Space - 1 in Dagel's World at Gate 5.
+[root at 2024-04-27 18:24:19,743]: Notice (Team #1): [Hint]: Dagel's Knuckles - Air Necklace is at Metal Harbor - 1 in Dagel's World at Gate 5.
+[root at 2024-04-27 18:24:19,743]: Notice (Player Dagel in team 1): A hint costs 18 points. You have 28 points.
+[root at 2024-04-27 18:24:19,743]: Notice (Player Dagel in team 1): It was recently changed, so that the above hints are only shown to you. If you meant to alert another player of an above hint, please let them know of the content or to run !hint themselves.
+[root at 2024-04-27 18:31:56,979]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 18:31:56,980]: connection closed
+[root at 2024-04-27 18:32:24,833]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 18:32:24,833]: connection closed
+[websockets.server at 2024-04-27 18:32:31,927]: connection open
+[root at 2024-04-27 18:32:32,861]: Notice (all): Passion (Team #1) playing Pokemon Emerald has joined. Client(0.4.6), ['AP'].
+[root at 2024-04-27 18:32:32,861]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 18:34:05,206]: connection open
+[root at 2024-04-27 18:34:05,502]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 18:34:05,502]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 18:53:41,157]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 18:53:41,173]: connection closed
+[websockets.server at 2024-04-27 18:53:42,672]: connection open
+[root at 2024-04-27 18:53:46,933]: A client connection was refused due to: {'InvalidSlot'}, the sent connect information was {'cmd': 'Connect', 'password': None, 'name': 'dagel', 'version': Version(major=0, minor=4, build=6), 'tags': ['TextOnly', 'AP'], 'items_handling': 7, 'uuid': 247207012734038, 'game': '', 'slot_data': False}.
+[websockets.server at 2024-04-27 18:53:47,203]: connection closed
+[websockets.server at 2024-04-27 18:53:51,423]: connection open
+[root at 2024-04-27 18:53:53,321]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-27 18:53:53,322]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 18:55:38,582]: connection closed
+[root at 2024-04-27 19:01:05,293]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 19:01:05,294]: connection closed
+[root at 2024-04-27 19:01:12,541]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 19:01:12,541]: connection closed
+[root at 2024-04-27 19:07:06,091]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 19:07:06,091]: connection closed
+[root at 2024-04-27 19:07:06,445]: Notice (all): Dagel (Team #1) has left the game
+[websockets.server at 2024-04-27 19:07:06,445]: connection closed
+[websockets.server at 2024-04-27 19:07:46,776]: connection open
+[root at 2024-04-27 19:07:47,087]: Notice (all): Dagel (Team #1) tracking Sonic Adventure 2 Battle has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 19:07:47,087]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 19:07:47,318]: connection open
+[root at 2024-04-27 19:07:47,502]: Notice (all): Dagel (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.4.6), ['TextOnly', 'AP'].
+[root at 2024-04-27 19:07:47,502]: Notice (Player Dagel in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2024-04-27 19:29:32,583]: connection open
+[root at 2024-04-27 19:29:32,878]: Notice (all): Passion (Team #1) tracking Pokemon Emerald has joined. Client(0.2.6), ['Tracker', 'IgnoreGame'].
+[root at 2024-04-27 19:29:32,878]: Notice (Player Passion in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2024-04-27 19:30:44,764]: (Team #1) Passion sent Extra Life to Dagel (Route 123 - Berry Tree East 3)
+[root at 2024-04-27 19:30:46,979]: (Team #1) Passion sent Invincibility to Dagel (Route 123 - Berry Tree East 1)
+[root at 2024-04-27 19:30:57,357]: (Team #1) Passion sent PP Up to Passion (Route 123 - Berry Tree East 5)
+[root at 2024-04-27 19:30:58,827]: (Team #1) Passion sent Sitrus Berry to Passion (Route 123 - Berry Tree East 4)
+[root at 2024-04-27 19:32:44,432]: (Team #1) Passion sent PP Up to Passion (Mt Pyre Exterior - Item 1)
+[root at 2024-04-27 19:32:53,449]: (Team #1) Passion sent Amulet Coin to Passion (Mt Pyre Exterior - Hidden Item First Grave)
+[root at 2024-04-27 19:35:07,933]: (Team #1) Passion sent Red Chaos Drive to Dagel (Mt Pyre Summit - Magma Emblem from Old Lady)
+[root at 2024-04-27 19:40:27,754]: (Team #1) Passion sent Revive to Passion (Petalburg Gym - Balance Badge)
+[root at 2024-04-27 19:41:06,625]: (Team #1) Passion sent Razz Berry to Passion (Petalburg City - Item Past Pond South)
+[root at 2024-04-27 19:42:50,644]: (Team #1) Passion sent TM40 to Passion (Route 103 - Item in Tree Maze)
+[root at 2024-04-27 19:47:34,092]: (Team #1) Passion sent Potion to Passion (Route 117 - Item Behind Tree)
+[root at 2024-04-27 19:47:46,679]: (Team #1) Passion sent Protein to Passion (Route 117 - Item Behind Flower Patch)
+[root at 2024-04-27 19:51:34,973]: (Team #1) Passion sent TM05 to Passion (New Mauville - Item 1)
+[root at 2024-04-27 19:52:11,809]: (Team #1) Passion sent Emblem to Dagel (New Mauville - Item 3)
+[root at 2024-04-27 19:52:55,559]: (Team #1) Passion sent Sitrus Berry to Passion (New Mauville - Item 5)
+[root at 2024-04-27 19:55:14,103]: (Team #1) Passion sent Emblem to Dagel (Route 118 - Good Rod from Fisherman)
+[root at 2024-04-27 20:14:28,062]: (Team #1) Passion sent Emblem to Dagel (Route 113 - Item Near Fallarbor South)
+[root at 2024-04-27 20:15:42,490]: (Team #1) Passion sent Repel to Passion (Fiery Path - Item Behind Boulders 2)
+[root at 2024-04-27 20:16:32,290]: (Team #1) Passion sent Leaf Stone to Passion (Fiery Path - Item Behind Boulders 1)
+[root at 2024-04-27 20:25:17,798]: (Team #1) Passion sent Hyper Potion to Passion (Magma Hideout 2F - Item on West Platform)
+[root at 2024-04-27 20:25:46,491]: (Team #1) Passion sent Guard Spec to Passion (Magma Hideout 3F - Item in Drill Room)
+[root at 2024-04-27 20:26:25,182]: (Team #1) Passion sent Emblem to Dagel (Magma Hideout 3F - Item Before Last Floor)
+[root at 2024-04-27 20:29:43,047]: (Team #1) Passion sent HP Up to Passion (Magma Hideout 3F - Item After Groudon)
+[root at 2024-04-27 20:33:23,530]: Notice (all): Passion (Team #1) has left the game
+[websockets.server at 2024-04-27 20:33:23,531]: connection closed
