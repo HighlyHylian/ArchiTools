@@ -1,4 +1,4 @@
-# All Current Sends As Of 2024-04-26 21:28:34.028627
+# All Current Sends As Of 2024-04-26 21:32:28.565824
 
 ## Hylian sends to:
 ---------------------
@@ -22,6 +22,7 @@ Boss Token (x4)              - 2024-04-27 01:17:53
 5 coins (x12)                - 2024-04-27 01:25:29
 
 </details>
+
 <details>
 	<summary><b>Dagel</b></summary>
 
@@ -40,6 +41,7 @@ Sonic - Bounce Bracelet (x1) - 2024-04-26 06:16:34
 Emblem (x21)                 - 2024-04-27 01:15:07
 
 </details>
+
 <details>
 	<summary><b>Passion</b></summary>
 
@@ -132,6 +134,7 @@ Ether (x2)                   - 2024-04-27 01:28:48
 TM09 (x1)                    - 2024-04-27 01:29:00
 
 </details>
+
 ## Dagel sends to:
 ---------------------
 <details>
@@ -150,6 +153,7 @@ Yoshi (x1)                   - 2024-04-26 02:38:00
 1-Up Mushroom (x10)          - 2024-04-27 00:11:15
 
 </details>
+
 <details>
 	<summary><b>Passion</b></summary>
 
@@ -204,6 +208,7 @@ Charcoal (x1)                - 2024-04-27 00:03:49
 Timer Ball (x1)              - 2024-04-27 00:06:12
 
 </details>
+
 <details>
 	<summary><b>Dagel</b></summary>
 
@@ -218,6 +223,7 @@ Ten Rings (x1)               - 2024-04-26 19:51:00
 Emblem (x9)                  - 2024-04-26 23:43:23
 
 </details>
+
 ## Passion sends to:
 ---------------------
 <details>
@@ -238,6 +244,7 @@ P-Switch (x1)                - 2024-04-27 01:04:18
 5 coins (x11)                - 2024-04-27 01:20:48
 
 </details>
+
 <details>
 	<summary><b>Passion</b></summary>
 
@@ -296,6 +303,7 @@ Max Revive (x1)              - 2024-04-27 01:04:39
 Dire Hit (x1)                - 2024-04-27 01:05:31
 
 </details>
+
 <details>
 	<summary><b>Dagel</b></summary>
 
@@ -306,3 +314,4 @@ Emblem (x7)                  - 2024-04-27 00:18:17
 Tails - Laser Blaster (x1)   - 2024-04-27 01:09:03
 
 </details>
+

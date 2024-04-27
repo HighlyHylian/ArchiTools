@@ -49,7 +49,7 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
                     # Pad the item name and count with spaces to ensure alignment
                     padded_item = f"{item} (x{count})".ljust(max_length + 1)
                     f.write(f"{padded_item} - {recent_time}\n\n")
-                f.write("</details>\n")
+                f.write("</details>\n\n")
 
 def main():
     input_file = 'log_file.txt'  # Update with your log file path
