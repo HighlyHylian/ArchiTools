@@ -36,32 +36,24 @@ def print_sender_receiver_pairs(sender_receiver_items, output_file):
             for receiver, items_time in receiver_items.items():
                 # Find the maximum length of item names and counts
                 max_length = max(max_length, max(len(item) + len(f"(x{len(timestamps)})") for item, timestamps in items_time.items()))
-        
         for sender, receiver_items in sender_receiver_items.items():
             f.write(f"## {sender} sends to:\n")
             f.write("---------------------\n")
             for receiver, items_time in receiver_items.items():
-                f.write(f"### {receiver}:\n")
+                f.write(f"<details>\n\t<summary><b>{receiver}</b></summary>\n")
                 # Sort items based on their timestamps
                 sorted_items = sorted(items_time.items(), key=lambda x: max(x[1]))
                 for item, timestamps in sorted_items:
                     recent_time = max(timestamps)
                     count = len(timestamps)
                     # Pad the item name and count with spaces to ensure alignment
-                    padded_item = (f"{item} (x{count})\n")
-                    # f.write(f"{padded_item} - {recent_time}\n")
-                f.write("\n")
-
-
-
-
-
-
-
+                    padded_item = f"{item} (x{count})".ljust(max_length + 1)
+                    f.write(f"{padded_item} - {recent_time}\n\n")
+                f.write("</details>\n")
 
 def main():
     input_file = 'log_file.txt'  # Update with your log file path
-    output_file = 'output.txt'    # Update with your desired output file path
+    output_file = 'output.md'    # Update with your desired output file path
     sender_receiver_items = parse_log_file(input_file)
     print_sender_receiver_pairs(sender_receiver_items, output_file)
 

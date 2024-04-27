@@ -1,290 +1,299 @@
-# All Current Sends As Of 2024-04-26 21:19:26.630229
+# All Current Sends As Of 2024-04-26 21:27:16.037158
 
 ## Hylian sends to:
 ---------------------
-### Hylian:
-Carry (x1)
+<details>
+	<summary><b>Hylian</b></summary>
+Carry (x1)                   - 2024-04-26 02:31:08
 
-Swim (x1)
+Swim (x1)                    - 2024-04-26 04:29:46
 
-1 coin (x4)
+1 coin (x4)                  - 2024-04-27 01:07:52
 
-1-Up Mushroom (x20)
+1-Up Mushroom (x20)          - 2024-04-27 01:16:24
 
-50 coins (x21)
+50 coins (x21)               - 2024-04-27 01:17:53
 
-Boss Token (x4)
+Boss Token (x4)              - 2024-04-27 01:17:53
 
-10 coins (x24)
+10 coins (x24)               - 2024-04-27 01:25:00
 
-5 coins (x12)
+5 coins (x12)                - 2024-04-27 01:25:29
 
+</details>
+<details>
+	<summary><b>Dagel</b></summary>
+Purple Chaos Drive (x1)      - 2024-04-26 03:06:50
 
-### Dagel:
-Purple Chaos Drive (x1)
+Green Chaos Drive (x1)       - 2024-04-26 04:17:21
 
-Green Chaos Drive (x1)
+Rouge - Pick Nails (x1)      - 2024-04-26 04:17:22
 
-Rouge - Pick Nails (x1)
+Shadow - Ancient Light (x1)  - 2024-04-26 04:48:26
 
-Shadow - Ancient Light (x1)
+Eggman - Large Cannon (x1)   - 2024-04-26 04:48:57
 
-Eggman - Large Cannon (x1)
+Sonic - Bounce Bracelet (x1) - 2024-04-26 06:16:34
 
-Sonic - Bounce Bracelet (x1)
+Emblem (x21)                 - 2024-04-27 01:15:07
 
-Emblem (x21)
+</details>
+<details>
+	<summary><b>Passion</b></summary>
+Big Pearl (x1)               - 2024-04-26 02:31:22
 
+Calcium (x1)                 - 2024-04-26 02:33:10
 
-### Passion:
-Big Pearl (x1)
+TM30 (x1)                    - 2024-04-26 02:46:23
 
-Calcium (x1)
+Protein (x1)                 - 2024-04-26 02:51:39
 
-TM30 (x1)
+Powder Jar (x1)              - 2024-04-26 02:52:42
 
-Protein (x1)
+PP Up (x2)                   - 2024-04-26 02:59:31
 
-Powder Jar (x1)
+Super Potion (x1)            - 2024-04-26 03:06:55
 
-PP Up (x2)
+Pinap Berry (x1)             - 2024-04-26 04:14:29
 
-Super Potion (x1)
+Deep Sea Tooth (x1)          - 2024-04-26 04:18:26
 
-Pinap Berry (x1)
+Tropic Mail (x1)             - 2024-04-26 04:26:18
 
-Deep Sea Tooth (x1)
+Carbos (x1)                  - 2024-04-26 04:28:48
 
-Tropic Mail (x1)
+Hyper Potion (x1)            - 2024-04-26 04:29:06
 
-Carbos (x1)
+Max Elixir (x1)              - 2024-04-26 04:30:30
 
-Hyper Potion (x1)
+Black Glasses (x1)           - 2024-04-26 04:35:07
 
-Max Elixir (x1)
+Tiny Mushroom (x1)           - 2024-04-26 04:35:19
 
-Black Glasses (x1)
+Persim Berry (x1)            - 2024-04-26 04:35:44
 
-Tiny Mushroom (x1)
+Water Stone (x1)             - 2024-04-26 04:36:43
 
-Persim Berry (x1)
+Stardust (x1)                - 2024-04-26 04:38:25
 
-Water Stone (x1)
+Sitrus Berry (x2)            - 2024-04-26 04:48:48
 
-Stardust (x1)
+Great Ball (x2)              - 2024-04-26 04:48:49
 
-Sitrus Berry (x2)
+Energy Powder (x1)           - 2024-04-26 04:59:22
 
-Great Ball (x2)
+Thunder Stone (x1)           - 2024-04-26 05:14:43
 
-Energy Powder (x1)
+Nugget (x3)                  - 2024-04-26 05:14:51
 
-Thunder Stone (x1)
+TM47 (x1)                    - 2024-04-26 05:15:21
 
-Nugget (x3)
+Bluk Berry (x1)              - 2024-04-26 05:27:50
 
-TM47 (x1)
+HM06 Rock Smash (x1)         - 2024-04-26 05:28:56
 
-Bluk Berry (x1)
+Wepear Berry (x1)            - 2024-04-26 05:31:35
 
-HM06 Rock Smash (x1)
+Yellow Shard (x2)            - 2024-04-26 05:36:41
 
-Wepear Berry (x1)
+Bead Mail (x1)               - 2024-04-26 05:47:20
 
-Yellow Shard (x2)
+HM04 Strength (x1)           - 2024-04-26 05:54:56
 
-Bead Mail (x1)
+Aspear Berry (x1)            - 2024-04-26 05:58:15
 
-HM04 Strength (x1)
+Glitter Mail (x1)            - 2024-04-26 06:00:01
 
-Aspear Berry (x1)
+Super Repel (x1)             - 2024-04-26 06:00:24
 
-Glitter Mail (x1)
+Wave Mail (x1)               - 2024-04-26 06:00:26
 
-Super Repel (x1)
+Full Heal (x2)               - 2024-04-26 06:00:34
 
-Wave Mail (x1)
+Full Restore (x2)            - 2024-04-26 06:17:39
 
-Full Heal (x2)
+TM27 (x1)                    - 2024-04-27 01:04:37
 
-Full Restore (x2)
+HP Up (x1)                   - 2024-04-27 01:04:45
 
-TM27 (x1)
+Pearl (x1)                   - 2024-04-27 01:07:13
 
-HP Up (x1)
+Revive (x2)                  - 2024-04-27 01:09:58
 
-Pearl (x1)
+Orange Mail (x1)             - 2024-04-27 01:15:08
 
-Revive (x2)
+Zinc (x1)                    - 2024-04-27 01:18:33
 
-Orange Mail (x1)
+Ether (x2)                   - 2024-04-27 01:28:48
 
-Zinc (x1)
+TM09 (x1)                    - 2024-04-27 01:29:00
 
-Ether (x2)
-
-TM09 (x1)
-
-
+</details>
 ## Dagel sends to:
 ---------------------
-### Hylian:
-Yoshi (x1)
+<details>
+	<summary><b>Hylian</b></summary>
+Yoshi (x1)                   - 2024-04-26 02:38:00
 
-50 coins (x10)
+50 coins (x10)               - 2024-04-26 23:33:40
 
-5 coins (x11)
+5 coins (x11)                - 2024-04-26 23:45:40
 
-10 coins (x13)
+10 coins (x13)               - 2024-04-26 23:48:26
 
-1 coin (x6)
+1 coin (x6)                  - 2024-04-27 00:07:00
 
-1-Up Mushroom (x10)
+1-Up Mushroom (x10)          - 2024-04-27 00:11:15
 
+</details>
+<details>
+	<summary><b>Passion</b></summary>
+Leppa Berry (x1)             - 2024-04-26 02:30:27
 
-### Passion:
-Leppa Berry (x1)
+HM03 Surf (x1)               - 2024-04-26 02:44:14
 
-HM03 Surf (x1)
+Heart Scale (x1)             - 2024-04-26 02:45:22
 
-Heart Scale (x1)
+Aspear Berry (x1)            - 2024-04-26 02:46:15
 
-Aspear Berry (x1)
+Zinc (x1)                    - 2024-04-26 02:48:38
 
-Zinc (x1)
+Repeat Ball (x1)             - 2024-04-26 03:00:36
 
-Repeat Ball (x1)
+Lax Incense (x1)             - 2024-04-26 03:12:17
 
-Lax Incense (x1)
+Revive (x1)                  - 2024-04-26 03:17:22
 
-Revive (x1)
+Carbos (x1)                  - 2024-04-26 18:07:05
 
-Carbos (x1)
+Protein (x1)                 - 2024-04-26 18:16:44
 
-Protein (x1)
+Wood Mail (x1)               - 2024-04-26 18:42:18
 
-Wood Mail (x1)
+Shadow Mail (x1)             - 2024-04-26 18:44:54
 
-Shadow Mail (x1)
+PP Max (x1)                  - 2024-04-26 18:57:00
 
-PP Max (x1)
+Silk Scarf (x1)              - 2024-04-26 19:03:17
 
-Silk Scarf (x1)
+Grepa Berry (x1)             - 2024-04-26 19:27:16
 
-Grepa Berry (x1)
+Kelpsy Berry (x2)            - 2024-04-26 19:31:00
 
-Kelpsy Berry (x2)
+Mind Badge (x1)              - 2024-04-26 19:37:29
 
-Mind Badge (x1)
+Max Ether (x1)               - 2024-04-26 19:57:11
 
-Max Ether (x1)
+Max Elixir (x1)              - 2024-04-26 20:01:48
 
-Max Elixir (x1)
+Pomeg Berry (x1)             - 2024-04-26 23:19:11
 
-Pomeg Berry (x1)
+Cheri Berry (x2)             - 2024-04-26 23:21:21
 
-Cheri Berry (x2)
+Qualot Berry (x1)            - 2024-04-26 23:44:24
 
-Qualot Berry (x1)
+Oran Berry (x1)              - 2024-04-26 23:51:06
 
-Oran Berry (x1)
+Charcoal (x1)                - 2024-04-27 00:03:49
 
-Charcoal (x1)
+Timer Ball (x1)              - 2024-04-27 00:06:12
 
-Timer Ball (x1)
+</details>
+<details>
+	<summary><b>Dagel</b></summary>
+Knuckles - Shovel Claws (x1) - 2024-04-26 18:08:59
 
+Mint Candy (x1)              - 2024-04-26 18:21:41
 
-### Dagel:
-Knuckles - Shovel Claws (x1)
+Magnetic Shield (x1)         - 2024-04-26 18:49:01
 
-Mint Candy (x1)
+Ten Rings (x1)               - 2024-04-26 19:51:00
 
-Magnetic Shield (x1)
+Emblem (x9)                  - 2024-04-26 23:43:23
 
-Ten Rings (x1)
-
-Emblem (x9)
-
-
+</details>
 ## Passion sends to:
 ---------------------
-### Hylian:
-1 coin (x3)
+<details>
+	<summary><b>Hylian</b></summary>
+1 coin (x3)                  - 2024-04-27 00:36:36
 
-Progressive Powerup (x1)
+Progressive Powerup (x1)     - 2024-04-27 00:39:18
 
-P-Switch (x1)
+P-Switch (x1)                - 2024-04-27 01:04:18
 
-10 coins (x10)
+10 coins (x10)               - 2024-04-27 01:04:41
 
-50 coins (x12)
+50 coins (x12)               - 2024-04-27 01:09:00
 
-1-Up Mushroom (x7)
+1-Up Mushroom (x7)           - 2024-04-27 01:18:12
 
-5 coins (x11)
+5 coins (x11)                - 2024-04-27 01:20:48
 
+</details>
+<details>
+	<summary><b>Passion</b></summary>
+Mental Herb (x1)             - 2024-04-26 03:00:20
 
-### Passion:
-Mental Herb (x1)
+Leftovers (x1)               - 2024-04-26 03:26:05
 
-Leftovers (x1)
+Old Rod (x1)                 - 2024-04-26 22:24:24
 
-Old Rod (x1)
+Great Ball (x1)              - 2024-04-26 22:24:24
 
-Great Ball (x1)
+TM08 (x1)                    - 2024-04-26 22:26:03
 
-TM08 (x1)
+Hyper Potion (x1)            - 2024-04-26 22:29:10
 
-Hyper Potion (x1)
+Full Heal (x1)               - 2024-04-26 22:35:33
 
-Full Heal (x1)
+Blue Shard (x1)              - 2024-04-26 22:37:36
 
-Blue Shard (x1)
+Pokeblock Case (x1)          - 2024-04-26 22:37:39
 
-Pokeblock Case (x1)
+HP Up (x2)                   - 2024-04-26 22:46:19
 
-HP Up (x2)
+Pinap Berry (x2)             - 2024-04-26 22:58:23
 
-Pinap Berry (x2)
+TM24 (x1)                    - 2024-04-26 23:02:42
 
-TM24 (x1)
+Balance Badge (x1)           - 2024-04-26 23:04:53
 
-Balance Badge (x1)
+Super Rod (x1)               - 2024-04-26 23:09:08
 
-Super Rod (x1)
+Rare Candy (x2)              - 2024-04-26 23:15:50
 
-Rare Candy (x2)
+Big Pearl (x1)               - 2024-04-26 23:17:08
 
-Big Pearl (x1)
+Never-Melt Ice (x1)          - 2024-04-26 23:18:51
 
-Never-Melt Ice (x1)
+Ultra Ball (x1)              - 2024-04-26 23:20:13
 
-Ultra Ball (x1)
+Repel (x1)                   - 2024-04-27 00:00:40
 
-Repel (x1)
+TM44 (x1)                    - 2024-04-27 00:18:23
 
-TM44 (x1)
+Bluk Berry (x1)              - 2024-04-27 00:21:49
 
-Bluk Berry (x1)
+Heart Scale (x1)             - 2024-04-27 00:22:29
 
-Heart Scale (x1)
+Sitrus Berry (x1)            - 2024-04-27 00:36:05
 
-Sitrus Berry (x1)
+Oran Berry (x1)              - 2024-04-27 00:36:34
 
-Oran Berry (x1)
+Persim Berry (x1)            - 2024-04-27 01:02:04
 
-Persim Berry (x1)
+Max Revive (x1)              - 2024-04-27 01:04:39
 
-Max Revive (x1)
+Dire Hit (x1)                - 2024-04-27 01:05:31
 
-Dire Hit (x1)
+</details>
+<details>
+	<summary><b>Dagel</b></summary>
+Ten Rings (x1)               - 2024-04-26 22:37:34
 
+Emblem (x7)                  - 2024-04-27 00:18:17
 
-### Dagel:
-Ten Rings (x1)
+Tails - Laser Blaster (x1)   - 2024-04-27 01:09:03
 
-Emblem (x7)
-
-Tails - Laser Blaster (x1)
-
-
+</details>
